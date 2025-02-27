@@ -1,0 +1,1157 @@
+region,topic,progress,title,text,simplified_text,n_tokens,n_tokens_all,n_chars,n_chars_all,n_syllables,n_words,n_unique_lemmas,n_sentences,n_other,n_nouns,n_verbs,n_number,n_symbols,n_adverbs,n_articles,n_pronouns,n_particles,n_adjectives,n_prepositions,n_proper_nouns,n_punctuations,n_interjections,n_coordinating_conjunctions,n_subordinating_conjunctions,n_active_verbs,n_passive_verbs,ttr,gulpease,flesch_vacca,lexical_density,n_vdb,n_vdb_fo,n_vdb_au,n_vdb_ad,semantic_similarity,editdistance,n_added_tokens,n_deleted_tokens,n_added_vdb_tokens,n_deleted_vdb_tokens,readit_base,readit_lexical,readit_syntactic,readit_global
+molise,Regolamento Edilizio e Norme Techiche di Attuazione,1,Art. 7 - Opere soggette ad autorizzazione,"Le seguenti opere, permanenti, semipermanenti o in precario sia pubbliche che private sono soggette ad autorizzazione:
+- lottizzazione di aree a scopo edificatorio;
+- opere di urbanizzazione;
+- nuove costruzioni;
+- ampliamenti, sopraelevazioni, ricostruzioni anche parziali;
+- modifiche e riattamenti dell'aspetto esterno dei fabbricati;
+- modifiche nell'ubicazione di costruzioni trasferibili;
+- demolizioni;
+- costruzione, restauro, modifiche, demolizione e ricostruzione di muri di cinte, cancellate, recinzioni, prospicienti spazi di uso pubblico, chioschi permanenti e provvisori;
+- scavi, rinterri, muri di sostegno e rilevati in genere, quando modificano in misura notevole lo stato dei luoghi, fognature, acquedotto;
+- cappelle, edicole e monumenti funerari in genere;
+- abbattimento di alberi in zone destinate dal P.R.G. a parchi e giardini privati ed in complessi alberati di valore ambientale;
+- aperture e modifiche di accessi privati sulle fronti stradali e su aree pubbliche;
+- costruzione o trasformazione di vetrine, collocamento di insegne, mostre, cartelli od affissi pubblicitari od indicatori, lumi, memorie, monumenti, costruzione di tettorie, pensiline, verande o tende all'esterno di edifici, anche provvisorie, in luoghi pubblici aperti o prospettanti luoghi pubblici;
+- esecuzione di manutenzione straordinaria, qualora comporti installazioni di ponteggi o scale mobili o ponti volanti;
+- installazione di condutture elettriche, telefoniche, di gas, fognature, ecc., sia da parte di privati che di società concessionaria, nei suoli pubblici e privati e negli esterni di edifici esistenti;
+- rivestimenti, decorazioni, e tinteggiatura di edifici.
+
+Quando le opere siano da eseguirsi per ordine dell'autorità giudiziaria, si dovrà fare esplicita menzione nella domanda di licenza, precisando gli estremi della sentenza e riportando integralmente la parte del dispositivo precisante le opere ordinate.
+
+Nessuna modificazione o riduzione potrà apportarsi in corso di lavoro, alle opere autorizzate, prima di averne chiesta ed ottenuta licenza, equivalendo ciò ad esecuzione abusiva di opere edilizie ai sensi del succitato articolo 31 della Legge urbanistica.","Le seguenti opere, che siano permanenti, semipermanenti o temporanee, sia pubbliche che private, richiedono un'autorizzazione:
+
+- suddivisione di aree per costruire edifici;
+- opere di urbanizzazione;
+- nuove costruzioni;
+- ampliamenti, sopraelevazioni e ricostruzioni, anche parziali;
+- modifiche e adattamenti dell'aspetto esterno degli edifici;
+- spostamenti di costruzioni mobili;
+- demolizioni;
+- costruzione, restauro, modifiche, demolizione e ricostruzione di muri di cinta, cancellate, recinzioni, chioschi permanenti e temporanei che si affacciano su spazi pubblici;
+- scavi, riempimenti, muri di sostegno e terrapieni che cambiano significativamente lo stato dei luoghi, fognature, acquedotti;
+- cappelle, edicole e monumenti funerari;
+- abbattimento di alberi in aree destinate a parchi e giardini privati o in complessi alberati di valore ambientale secondo il Piano Regolatore Generale (P.R.G.);
+- aperture e modifiche di accessi privati su strade e aree pubbliche;
+- costruzione o modifica di vetrine, installazione di insegne, cartelli pubblicitari, luci, monumenti, tettoie, pensiline, verande o tende all'esterno di edifici, anche temporanee, in luoghi pubblici o che si affacciano su luoghi pubblici;
+- manutenzione straordinaria che richiede ponteggi, scale mobili o ponti volanti;
+- installazione di condutture elettriche, telefoniche, di gas, fognature, ecc., da parte di privati o società concessionarie, su suoli pubblici e privati e sugli esterni di edifici esistenti;
+- rivestimenti, decorazioni e tinteggiatura di edifici.
+
+Se le opere devono essere eseguite per ordine dell'autorità giudiziaria, bisogna indicarlo chiaramente nella domanda di licenza, specificando i dettagli della sentenza e riportando la parte che ordina le opere.
+
+Non si possono fare modifiche o riduzioni alle opere autorizzate durante i lavori senza aver prima richiesto e ottenuto una nuova licenza. Farlo equivale a eseguire opere edilizie abusive secondo l'articolo 31 della Legge urbanistica.",267,341,1642,1716,679,173,150,20,0,103,26,1,0,7,11,10,0,38,44,4,74,0,22,1,23,3,64.7940074906367,49.97378277153558,27.350374531835193,0.651685393258427,214,178,34,45,96.7469334602356,608,59,85,42,48,0.196,0.983,0.977,1.0
+molise,Regolamento Edilizio e Norme Techiche di Attuazione,2,Art. 8 - Opere non soggette ad autorizzazione,"Non sono soggette alla autorizzazione:
+- le opere pubbliche da eseguirsi direttamente da Amministrazioni Statali. Tali Amministrazioni comunque devono depositare presso il Sindaco prima dell'inizio di qualsiasi opera, la prova dell'accertamento di cui agli articoli 29 e 31 comma 2° della vigente legge urbanistica;
+- (voce eliminata)
+- le opere e le installazioni per la segnaletica stradale orizzontale e verticale, in applicazione del Codice della strada;
+- le opere in ordinaria e straordinaria manutenzione che non comportino modificazioni dei fabbricati e comunque non interessino edifici tutelati ai sensi della legge 1 giugno1939, n. 1089;
+- la costruzione di baracche da cantiere e le protezioni stagionali;
+- gli impianti di servizi accessori dei fabbricati come illuminazione, energia industriale, gas, telefono, riscaldamento, ventilazione, ascensori, montacarichi ed opere inerenti, salvo l'osservanza delle disposizioni di Legge e di Regolamento speciali e solo nel caso che tali impianti non comportino la esecuzione di opere visibili all'esterno;
+- le opere di assoluta urgenza e di necessità immediata ordinata dal Sindaco.
+
+Del pari non è richiesta l'autorizzazione per la modificazione della situazione in atto del suolo, per eseguirvi strade, scavi, spianamenti, canali e, in genere, qualsiasi alterazione di sopra e sottosuolo che risponda ad esigenza di carattere agrario o minerario.
+
+L'esenzione dell'autorizzazione non esonera l'interessato dall'obbligo della preventiva denuncia agli effetti dell'applicazione della imposta di consumo o da altra imposta sostitutiva di questa sui materiali od apparecchi impiegati.","Non serve l'autorizzazione per:
+
+- le opere pubbliche realizzate direttamente dalle Amministrazioni Statali. Queste Amministrazioni devono comunque depositare presso il Sindaco, prima di iniziare qualsiasi opera, la prova dell'accertamento previsto dagli articoli 29 e 31 comma 2 della legge urbanistica vigente;
+- le opere e le installazioni per la segnaletica stradale orizzontale e verticale, secondo il Codice della strada;
+- le opere di manutenzione ordinaria e straordinaria che non modificano i fabbricati e non riguardano edifici tutelati dalla legge del 1 giugno 1939, n. 1089;
+- la costruzione di baracche da cantiere e protezioni stagionali;
+- gli impianti di servizi accessori dei fabbricati come illuminazione, energia industriale, gas, telefono, riscaldamento, ventilazione, ascensori e montacarichi, a condizione che rispettino le leggi e i regolamenti speciali e che non comportino opere visibili all'esterno;
+- le opere di assoluta urgenza e necessità immediata ordinate dal Sindaco.
+
+Non serve l'autorizzazione nemmeno per modificare il suolo per realizzare strade, scavi, spianamenti, canali e altre alterazioni del terreno, se rispondono a esigenze agrarie o minerarie.
+
+Anche se non serve l'autorizzazione, chi esegue i lavori deve comunque denunciare in anticipo l'uso di materiali o apparecchi per l'applicazione dell'imposta di consumo o di un'altra imposta sostitutiva.",201,233,1162,1194,487,138,119,10,0,66,20,6,0,12,24,3,0,21,32,0,32,0,14,3,20,0,68.65671641791045,46.114427860696516,28.41243781094527,0.5920398009950248,162,134,26,26,97.30170965194702,468,47,62,39,39,0.765,0.9520000000000001,0.99,1.0
+molise,Regolamento Edilizio e Norme Techiche di Attuazione,3,Art. 26 - Occupazione temporanea e manomissione del suolo pubblico,"Nel caso di necessità di occupazione di suolo pubblico, deve essere fatta separata domanda al Sindaco con la indicazione planimetrica dell'area da includere nel recinto di cantiere, al fine di ottenere la concessione temporanea per la durata presunta dei lavori.
+
+La concessione è rinnovabile di sei mesi in sei mesi ed è subordinata al pagamento della tassa di occupazione di spazi ed aree pubbliche ed al versamento cauzionale, per la rimessa in ripristino, sia di terrazzamento sia di pavimentazione o vegetazione, allo scadere della concessione oppure in caso di prolungata sospensione dei lavori.
+
+Il predetto deposito cauzionale viene restituito per intero o in parte, a seconda che il ripristino sia stato eseguito a regola d'arte o meno, trascorsi 60 (sessanta) giorni dall'avvenuto ripristino del suolo manomesso.","Se hai bisogno di occupare suolo pubblico, devi fare una domanda separata al Sindaco. Nella domanda, devi indicare su una mappa l'area che vuoi includere nel recinto del cantiere. Questo serve per ottenere il permesso temporaneo per il tempo previsto dei lavori.
+
+Puoi rinnovare il permesso ogni sei mesi. Per ottenerlo, devi pagare la tassa per l'occupazione di spazi pubblici e versare una cauzione. Questa cauzione serve per riparare il suolo, come terrazze, pavimentazione o vegetazione, alla fine del permesso o se i lavori si fermano a lungo.
+
+Restituiamo la cauzione, tutta o in parte, dopo 60 giorni dal ripristino del suolo. La restituzione dipende da quanto bene è stato fatto il ripristino.",115,131,571,587,241,87,74,8,0,33,26,2,0,1,16,4,0,5,22,0,16,0,4,2,23,3,75.65217391304347,60.21739130434783,55.407608695652186,0.5652173913043478,93,78,15,8,93.51204633712769,388,58,57,47,39,0.16899999999999998,0.5,0.039,0.003
+molise,Regolamento Edilizio e Norme Techiche di Attuazione,4,Art. 27 - Controllo sulla esecuzione dei lavori,"Ogni costruzione è soggetta al controllo dell'Autorità Comunale durante la esecuzione dei lavori.
+
+La vigilanza sulla esecuzione delle opere viene esercitata da Funzionari od Agenti Comunali i quali dovranno avere libero accesso agli immobili.","L'Autorità Comunale controlla ogni costruzione mentre i lavori sono in corso.
+
+Funzionari o Agenti Comunali si occupano di vigilare sull'esecuzione delle opere e devono poter accedere liberamente agli immobili.",31,33,179,181,78,31,30,2,0,9,7,0,0,1,3,1,0,1,5,1,2,0,2,1,7,0,100.0,50.61290322580645,26.951612903225794,0.5806451612903226,23,19,4,3,97.83408045768738,141,18,21,16,16,0.349,1.0,0.298,0.9490000000000001
+molise,Regolamento Edilizio e Norme Techiche di Attuazione,5,Art. 28 - Visite di controllo - termini e modalità,"Durante l'esecuzione dei lavori i proprietari dovranno chiedere per iscritto l'effettuazione delle seguenti tre visite di funzionari o agenti municipali per constatare il regolare andamento e l'esatta corrispondenza delle opere in esecuzione col progetto approvato ed eventuali varianti preventivamente autorizzate:
+- Visita alle fondazioni: La prima visita verrà effettuata non appena le opere di fondazione siano ultimate
+- Visita al rustico: La seconda visita verrà effettuata non appena ultimata la costruzione delle strutture portanti ivi comprese le murature d'ambito, scale, coperture e tavolati divisori.
+- Visita ai lavori ultimati: La terza visita verrà effettuata a lavori ultimati per constatare in via definitiva la corrispondenza delle opere ivi comprese tutte le rifiniture e materiali impiegati per i rivestimenti esterni, al progetto approvato e alle eventuali varianti preventivamente autorizzate.
+
+Dell'obbligo della richiesta scritta delle visite di controllo di cui ai punti a, b, e c, verrà fatta menzione nelle prescrizioni contenute nella licenza di costruzione.
+
+Qualora nel corso delle suddette visite si accertasse la difformità delle opere eseguite da quelle approvate, si procederà nei confronti dei trasgressori a termine di legge.
+
+Per ogni visita sarà redatto apposito verbale in duplice copia di cui una deve rimanere in cantiere.
+
+La mancata visita da parte dei servizi comunali non esime il titolare della licenza di costruzione il Direttore dei lavori o l'assuntore dei lavori dalle loro responsabilità circa l'inosservanza tanto delle norme generali di legge o di regolamento quanto delle modalità esecutive che siano fissate nella licenza di costruzione.","Durante i lavori, i proprietari devono richiedere per iscritto tre visite da parte di funzionari o agenti municipali. Queste visite servono a verificare che i lavori siano eseguiti correttamente e in linea con il progetto approvato e le eventuali modifiche autorizzate:
+
+1. **Visita alle fondazioni**: Questa visita avviene appena le opere di fondazione sono completate.
+   
+2. **Visita al rustico**: Questa visita avviene quando sono completate le strutture portanti, comprese le mura perimetrali, le scale, le coperture e le pareti divisorie.
+
+3. **Visita ai lavori ultimati**: Questa visita avviene a lavori finiti per verificare che tutto, comprese le rifiniture e i materiali usati per i rivestimenti esterni, corrisponda al progetto approvato e alle eventuali modifiche autorizzate.
+
+La necessità di richiedere queste visite sarà indicata nelle prescrizioni della licenza di costruzione.
+
+Se durante le visite si scopre che i lavori non rispettano il progetto approvato, si prenderanno provvedimenti legali contro i responsabili.
+
+Per ogni visita, verrà redatto un verbale in due copie, una delle quali deve rimanere in cantiere.
+
+Se i servizi comunali non effettuano una visita, il titolare della licenza di costruzione, il Direttore dei lavori o l'appaltatore non sono esonerati dalle loro responsabilità. Devono comunque rispettare le leggi, i regolamenti e le modalità esecutive indicate nella licenza di costruzione.",210,250,1169,1209,510,128,107,16,0,62,34,5,0,6,35,5,0,17,32,0,40,0,8,6,22,12,60.952380952380956,56.19047619047619,35.01785714285714,0.5666666666666667,178,153,23,18,95.37819623947144,657,62,84,54,59,0.40700000000000003,0.04,0.988,0.956
+molise,Regolamento Edilizio e Norme Techiche di Attuazione,6,Art. 29 - Cautele contro danni a manufatti per servizi pubblici,"Qualora per l'esecuzione di opere occorra manomettere il suolo e sottosuolo pubblico o costruire recinzioni e ponteggi, il costruttore dovrà:
+- Ottenere l'autorizzazione dell'Amministrazione Comunale;
+- Adottare le cautele necessarie per evitare danni ai relativi manufatti e condutture;
+- Dare avviso agli Uffici od Impresa che eserciscono servizi pubblici.","Se per realizzare dei lavori è necessario scavare nel suolo pubblico o costruire recinzioni e ponteggi, il costruttore deve:
+
+- Chiedere l'autorizzazione al Comune;
+- Prendere le precauzioni necessarie per evitare danni a strutture e tubature;
+- Informare gli uffici o le aziende che gestiscono i servizi pubblici.",46,54,258,266,108,42,36,4,0,13,10,0,0,0,6,1,0,4,6,1,8,0,4,1,10,0,91.30434782608695,59.0,41.891304347826065,0.5869565217391305,35,33,2,5,95.76115608215332,129,23,25,16,13,0.076,1.0,0.037000000000000005,0.11
+molise,Regolamento Edilizio e Norme Techiche di Attuazione,7,Art. 30 - Interruzione dei lavori ed obblighi relativi,"In caso di interruzione delle opere il proprietario dovrà fare eseguire i lavori necessari a mantenere la solidità della parte costruita ed a togliere eventuali deturpazioni.
+
+In caso di inadempienza il Sindaco potrà provvedere d'Ufficio, ai sensi dell'art. 153 del T.U. Legge Comunale e Provinciale, con spese a carico degli interessati.
+
+Trascorso un mese dalla interruzione delle opere e salvo il caso che questa dipenda da provate cause di forza maggiore, sarà facoltà del Sindaco di far cessare l'occupazione di suolo pubblico eventualmente autorizzata.","Se i lavori si interrompono, il proprietario deve fare i lavori necessari per mantenere stabile la parte costruita e rimuovere eventuali danni estetici.
+
+Se il proprietario non lo fa, il Sindaco può intervenire direttamente, secondo l'articolo 153 della Legge Comunale e Provinciale, e le spese saranno a carico del proprietario.
+
+Dopo un mese dall'interruzione dei lavori, a meno che non ci siano cause di forza maggiore dimostrate, il Sindaco può revocare l'autorizzazione all'occupazione del suolo pubblico.",80,89,424,433,180,63,55,3,0,22,12,1,0,4,11,3,0,9,12,0,9,0,3,3,12,0,78.75,47.25,33.08333333333333,0.5875,67,58,10,7,96.35300040245056,236,32,41,27,28,0.9059999999999999,0.902,0.342,0.36700000000000005
+molise,Regolamento Edilizio e Norme Techiche di Attuazione,8,Art. 31 - Demolizioni,"Nelle opere di demolizioni è vietato tenere accumulati in qualsiasi luogo, materiali provenienti dalle demolizioni stesse, quando possa esservi pericolo di incendio ed è vietato accumulare materiali pesanti nei piani superiori di un edificio.
+
+È vietato altresì calare materiali di demolizioni verso la via pubblica; quando ciò sia reso necessario dalla natura delle opere o dei luoghi, i materiali stessi dovranno venir calati entro contenitori o per appositi condotti o mediante corde od altri mezzi che diano garanzia di sicurezza.
+
+Dovranno, altresì, osservarsi le eventuali prescrizioni stabilite dagli altri regolamenti comunali ed adottarsi tutte quelle speciali cautele che l'Autorità Comunale potrà ordinare caso per caso e dovranno adottarsi gli accorgimenti atti ad evitare il polverio.","Durante le demolizioni, non si possono accumulare materiali in luoghi dove c'è rischio di incendio. Inoltre, non si possono mettere materiali pesanti nei piani superiori di un edificio.
+
+È vietato anche far cadere materiali di demolizione sulla strada. Se è necessario, bisogna usare contenitori, condotti appositi, corde o altri mezzi sicuri per calarli.
+
+Bisogna seguire le regole degli altri regolamenti comunali e adottare le precauzioni speciali che il Comune può richiedere. Inoltre, è importante prendere misure per evitare la diffusione di polvere.",83,95,461,473,197,68,62,6,0,20,22,0,0,6,6,4,0,10,11,1,12,0,2,1,20,2,81.92771084337349,55.144578313253014,37.88955823293171,0.6987951807228916,74,66,8,7,95.43781876564026,383,38,65,32,46,0.193,1.0,0.03,0.008
+veneto,Regolamento comunale per la tutela degli animali,1,Art. 1 – Valori etici e culturali,"Il Comune di Verona nell'ambito dei principi e indirizzi fissati dalle vigenti leggi tutela le specie animali non umane, in conformità a principi etici e morali, e riconosce agli stessi il diritto a una esistenza compatibile con la loro natura, quale elemento fondamentale e indispensabile di una morale biocentrica.
+
+Il Comune di Verona, comunità portatrice di elevati valori di cultura e civiltà, individua nella tutela delle specie animali non umane uno strumento finalizzato al rispetto e alla tolleranza verso tutti gli esseri viventi e, in particolare, verso i più deboli.
+
+Il Comune di Verona, per favorire la corretta convivenza fra uomo e animali, e tutelare la salute pubblica e l'ambiente, promuove e sostiene iniziative e interventi rivolti alla conservazione degli ecosistemi e degli equilibri ecologici; le modifiche degli assetti del territorio dovranno tenere conto anche degli habitat a cui gli animali sono legati per la loro esistenza.
+
+Il Comune di Verona si impegna a operare affinché sia promosso, nel sistema educativo rivolto all'intera popolazione e soprattutto all'infanzia, il rispetto degli animali e il principio della corretta convivenza con gli stessi.
+
+Il Comune di Verona si adopera altresì a diffondere e promuovere le garanzie giuridiche attribuite agli animali dalle normative vigenti.
+
+Il Comune di Verona riconosce la libertà di ogni cittadino di esercitare le attività connesse alla cura degli animali, quale mezzo che concorre a sviluppare la personalità e ad attenuare le difficoltà espressive e di socializzazione, soprattutto nelle fasi dell'infanzia e della vecchiaia.
+
+Il Comune di Verona riconosce validità etica e morale a tutte le forme di pensiero che si richiamano al dovere del rispetto e della promozione di iniziative per la sopravvivenza delle specie animali.
+
+Il Comune di Verona, in collaborazione con i Servizi Veterinari dell'Azienda Ulss 9 Scaligera, promuove e attua corsi di formazione e/o di aggiornamento sul benessere animale rivolti ai medici veterinari, al personale di vigilanza, agli operatori del settore e alle associazioni di volontariato.
+
+Il Comune di Verona, i Servizi Veterinari dell'Azienda Ulss 9 Scaligera e l'Ordine dei Medici Veterinari, in collaborazione con le Associazioni Protezionistiche iscritte all'Albo Regionale riconosciute ai sensi dell'art. 9 della L.R. 60/93 e della circolare applicativa n. 11 del 10.5.1994, promuovono programmi di formazione e informazione rivolti alle scuole e ai cittadini.","Il Comune di Verona protegge gli animali, seguendo le leggi attuali e rispettando principi etici e morali. Riconosce agli animali il diritto a vivere in modo adatto alla loro natura, come parte di una morale che rispetta tutte le forme di vita.
+
+Il Comune di Verona, che si impegna per la cultura e la civiltà, vede nella protezione degli animali un modo per promuovere il rispetto e la tolleranza verso tutti gli esseri viventi, specialmente i più deboli.
+
+Per garantire una buona convivenza tra persone e animali e proteggere la salute pubblica e l'ambiente, il Comune di Verona sostiene iniziative per conservare gli ecosistemi e gli equilibri ecologici. Le modifiche al territorio devono considerare anche gli habitat degli animali.
+
+Il Comune di Verona lavora per promuovere, soprattutto tra i bambini, il rispetto degli animali e la corretta convivenza con loro attraverso l'educazione.
+
+Il Comune di Verona diffonde e promuove le leggi che proteggono gli animali.
+
+Il Comune di Verona riconosce il diritto di ogni cittadino a prendersi cura degli animali, vedendo in questo un modo per sviluppare la personalità e migliorare la socializzazione, specialmente per bambini e anziani.
+
+Il Comune di Verona apprezza tutte le idee che promuovono il rispetto e la protezione degli animali.
+
+In collaborazione con i Servizi Veterinari dell'Azienda Ulss 9 Scaligera, il Comune di Verona organizza corsi di formazione sul benessere animale per veterinari, personale di vigilanza, operatori del settore e associazioni di volontariato.
+
+Il Comune di Verona, insieme ai Servizi Veterinari dell'Azienda Ulss 9 Scaligera, l'Ordine dei Medici Veterinari e le Associazioni Protezionistiche riconosciute, promuove programmi di formazione e informazione per scuole e cittadini.",274,301,1462,1489,628,144,118,11,0,69,30,2,0,6,50,7,0,15,51,27,27,0,17,0,30,0,52.55474452554745,47.68613138686131,32.11280690112807,0.43795620437956206,218,193,34,36,96.82459235191345,992,49,122,47,84,0.8740000000000001,0.042,0.005,0.004
+veneto,Regolamento comunale per la tutela degli animali,2,Art. 2 – Competenze del Sindaco,"Il Sindaco, sulla base del dettato degli artt. 823 e 826 del Codice Civile, esercita la tutela delle specie animali che vivono stabilmente o temporaneamente sul territorio comunale, vigilando a mezzo degli organi competenti sui maltrattamenti, sugli atti di crudeltà e sull'abbandono degli animali presenti allo stato libero nel territorio comunale.
+
+Al Sindaco, in base al D.P.R. 31.3.1979, spetta la vigilanza sull'osservanza delle leggi e dei regolamenti generali e locali, relativi alla protezione degli animali e alla difesa del patrimonio zootecnico, nonché l'attuazione delle disposizioni previste nel presente Regolamento anche mediante l'adozione di specifici provvedimenti applicativi.
+
+Il Sindaco, per motivi di sanità e sicurezza pubblica, può disporre provvedimenti straordinari per la gestione delle specie animali che vivono stabilmente o temporaneamente allo stato libero nel territorio comunale.","Il Sindaco, seguendo gli articoli 823 e 826 del Codice Civile, protegge le specie animali che vivono stabilmente o temporaneamente nel territorio comunale. Il Sindaco controlla, attraverso gli organi competenti, che non ci siano maltrattamenti, crudeltà o abbandoni di animali liberi nel territorio.
+
+Secondo il D.P.R. del 31 marzo 1979, il Sindaco deve assicurarsi che le leggi e i regolamenti, sia generali che locali, sulla protezione degli animali e la difesa del patrimonio zootecnico siano rispettati. Inoltre, deve applicare le disposizioni di questo Regolamento, anche adottando provvedimenti specifici.
+
+Per motivi di salute e sicurezza pubblica, il Sindaco può prendere misure straordinarie per gestire le specie animali che vivono libere nel territorio comunale.",112,128,644,660,270,78,69,5,0,30,16,4,0,5,14,4,0,14,15,1,16,0,8,1,14,2,69.64285714285714,44.892857142857146,26.903571428571446,0.5803571428571429,92,79,16,11,97.1928060054779,336,41,51,37,29,0.873,0.838,0.023,0.221
+veneto,Regolamento comunale per la tutela degli animali,3,"Art. 4 – Detenzione, trasporto, addestramento e maltrattamento di animali","Fermo restando il rispetto delle norme cogenti in materia di maltrattamento di animali, è vietato abbandonare e/o maltrattare qualsiasi specie di animale.
+
+Chiunque conviva o detenga un animale, o abbia accettato di occuparsene, è responsabile della sua salute e del suo benessere, deve provvedere alla sua sistemazione e fornirgli adeguate cure e attenzioni, tenendo conto dei suoi bisogni fisiologici ed etologici, secondo l'età, il sesso, la specie e la razza, e in particolare:
+- rifornirlo di cibo e acqua in quantità sufficiente e con modalità e tempistiche consone;
+- assicurargli le necessarie cure sanitarie e un adeguato livello di benessere fisico ed etologico, nonché i necessari contatti sociali tipici della specie di riferimento;
+- chi detiene a qualsiasi titolo un cane dovrà provvedere a consentirgli, ogni giorno, l'opportuna attività motoria;
+- prendere ogni possibile precauzione e cautela per impedirgli la fuga;
+- garantire la tutela di terzi da aggressioni;
+- assicurare la regolare pulizia degli spazi di dimora degli animali;
+- garantire spazi di custodia adeguati, dotati di idonea protezione dal sole e dagli agenti atmosferici e con spazio sufficiente a consentire una corretta deambulazione e stabulazione, garantendo un igienico smaltimento delle deiezioni.
+
+È vietato detenere gli animali in spazi angusti o isolati, in condizioni di scarsa o eccessiva aerazione, illuminazione, insolazione, temperatura e di eccessiva umidità e rumore, senza un'adeguata alternanza giorno/notte e senza possibilità di adeguata deambulazione. Inoltre, è vietato tenere prevalentemente (inteso anche per più ore al giorno) animali su terrazze o balconi senza possibilità alcuna di accesso all'interno dell'abitazione e di integrazione con il nucleo familiare o isolarli in cortili, giardini, rimesse, box, cantine, pianerottoli, immobili abbandonati o privi di persone che ne garantiscano la sorveglianza, oppure segregarli in contenitori o scatole, anche se poste all'interno dell'appartamento.
+
+Qualora richiesto dalle caratteristiche di specie, è necessario che gli animali abbiano la possibilità di un rifugio di grandezza adeguata dove nascondersi.
+
+Gli animali non in grado di convivere con altri dovranno essere tenuti opportunamente separati.
+
+I detentori di animali selvatici autoctoni ed esotici devono riprodurre condizioni climatiche, fisiche e ambientali compatibili con la natura della specie. È vietato condurre gli animali esotici potenzialmente pericolosi e quelli selvatici in luoghi pubblici o aperti al pubblico.
+
+È vietato mantenere volatili permanentemente legati al trespolo.
+
+È fatto assoluto divieto di mettere in atto comportamenti lesivi nei confronti di animali, compreso sottoporli a sforzi e fatiche.
+
+È vietato condurre animali a guinzaglio obbligandoli a seguire mezzi di locomozione in movimento.
+
+Sono vietati gli atti di amputazione del corpo degli animali per motivi estetici, salvo i casi, certificati dal medico veterinario, in cui l'intervento si renda necessario per guarire malattie, e salvo le altre deroghe previste dalla normativa vigente;
+
+È vietato addestrare animali per combattimenti o per aumentarne l'aggressività.
+
+È vietato addestrare animali ricorrendo a violenze, percosse, costrizione fisica o strumenti coercitivi come il collare elettrico.
+
+È vietato ricorrere all'addestramento di animali appartenenti a specie selvatiche, con esclusione dei falconieri e degli animali artisti (definiti ai sensi della D.G.R. 1707 del 16.6.2004).
+
+È vietato utilizzare animali per il pubblico divertimento in contrasto con le normative vigenti e in particolare a scopo di scommesse. Sono rigorosamente vietati i combattimenti tra animali di ogni tipo.
+
+È vietato il dono di animali, d'affezione e non, come premio, ricompensa ed omaggio nell'ambito di feste e manifestazioni pubbliche, o altre attività;
+
+È vietato favorire o permettere la riproduzione non pianificata di animali, d'affezione e non, se non si è in grado di mantenere o gestire l'eventuale prole.
+
+Chiunque adibisca alla riproduzione un animale da compagnia deve tenere conto delle caratteristiche fisiologiche e comportamentali del proprio animale, in modo da non mettere a repentaglio la salute e il benessere della progenitura o dell'animale femmina gravida o allattante, e attenersi alle previsioni del D.Lgs. n. 529/1992.
+
+È vietato trasportare animali in condizioni e con mezzi tali da procurare loro sofferenza, ferite o danni fisici.
+
+Il conducente di autoveicolo che trasporti animali deve fare riferimento alla normativa vigente in materia e deve assicurare:
+- l'aerazione del veicolo;
+- la somministrazione di acqua e cibo e una periodica pausa di deambulazione in caso di viaggi prolungati;
+- la protezione da condizioni eccessive di calore o di freddo per periodi di tempo tali da compromettere il benessere e/o il sistema fisiologico dell'animale. È fatto divieto, nella pratica dell'accattonaggio, di accompagnarsi con animali, utilizzarli, detenerli o comunque esibirli. A norma dell'art. 13 della Legge n° 689/81, in relazione ai successivi artt. 19, 20 e 22, all'accertamento della violazione consegue il sequestro degli animali di cui sopra, con il loro ricovero immediato presso il canile sanitario e il successivo trasferimento al rifugio del cane comunale. Con l'ordinanza-ingiunzione è disposta la confisca di quanto in sequestro.
+
+È fatto divieto, nella pratica dell'accattonaggio, di accompagnarsi con animali, utilizzarli, detenerli o comunque esibirli. A norma dell'art. 13 della Legge n° 689/81, in relazione ai successivi artt. 19, 20 e 22, all'accertamento della violazione consegue il sequestro degli animali di cui sopra, con il loro ricovero immediato presso il canile sanitario e il successivo trasferimento al rifugio del cane comunale. Con l'ordinanza-ingiunzione è disposta la confisca di quanto in sequestro.
+
+È vietato sopprimere animali da compagnia e d'affezione se non con metodo eutanasico riconosciuto, praticato da un Medico Veterinario su animali affetti da patologie incurabili o di comprovata ed accertata pericolosità a seguito di valutazione comportamentale, come previsto dall'O.M. 06/08/2013, certificata da un Medico Veterinario ""esperto in comportamento animale"". Tale valutazione andrà preceduta dalla dimostrazione del proprietario di avere seguito un articolato corso di recupero comportamentale.
+
+Gli animali devono essere tenuti in modo da non recare disturbo o danno a coabitanti e al vicinato.
+
+Qualora in una civile abitazione vi sia la presenza di un numero di cani superiore a cinque oppure di gatti superiore a dieci (con esclusione di cuccioli lattanti per il periodo di tempo strettamente necessario all'allattamento e comunque mai superiore ai due mesi per i cani e tre mesi per i gatti), per motivi di sanità, igiene e sicurezza pubblica, è obbligatoria l'autorizzazione del Sindaco su parere del Servizio Veterinario dell'Ulss 9 Scaligera.
+
+Se un animale viene lasciato in un autoveicolo in sosta, è obbligatorio disporre i finestrini in modo tale da permettere una opportuna ventilazione all'interno, evitando al tempo stesso che l'animale possa fuoriuscire con la testa o parte del muso e creare danni a terzi; la sosta non deve essere di durata tale da creare disagio all'animale e non deve essere comunque a diretta esposizione del sole.
+
+I detentori a qualsiasi titolo di animali, qualora accedano a marciapiedi, strade, aree pedonali, aree verdi, parchi, giardini e aree pubbliche o di uso pubblico in genere, devono provvedere alla raccolta immediata delle deiezioni dei loro animali ed essere muniti di idonea attrezzatura di raccolta e contenimento delle deiezioni. Queste andranno depositate, introdotte in idonei involucri o sacchetti chiusi, nei cestini portarifiuti o negli appositi contenitori. Questa norma non si applica a cani guida per non vedenti o accompagnatori di portatori di handicap.
+
+È consentito l'accesso degli animali sui mezzi di trasporto pubblico operanti nel territorio del Comune di Verona secondo le modalità e con i limiti di cui di seguito:
+- non potranno essere trasportati sui mezzi pubblici animali appartenenti alle specie selvatiche;
+- ogni animale deve essere accompagnato dal proprietario o dal detentore a qualsiasi
+titolo; per i cani - anche se di piccola taglia e portati in braccio - sono obbligatori il guinzaglio e la museruola; per i gatti è obbligatoria la gabbietta per il trasporto;
+- il proprietario, o detentore a qualsiasi titolo, che conduce animali sui mezzi di trasporto pubblico deve aver cura che gli stessi non sporchino o creino disturbo o danno alcuno agli altri passeggeri;
+- in caso il mezzo pubblico sia notevolmente affollato, per la sicurezza dei passeggeri il personale dell'azienda che effettua il trasporto e gli agenti della Forza Pubblica potranno non consentire l'accesso sul mezzo;
+- nel caso specifico del trasporto pubblico su taxi, il tassista ha la facoltà di rifiutare il trasporto di animali pericolosi, quando non contenuti negli appositi trasportini, e/o animali di grossa taglia, con eccezione dei cani guida per non vedenti.
+- temporanei esoneri a quanto previsto dal presente comma possono essere concessi all'obbligo della museruola per i cani in particolari condizioni anatomiche, fisiologiche o patologiche, su certificazione veterinaria che indichi il periodo di tale esenzione e che sarà esibita a richiesta degli addetti ai controlli.
+
+I proprietari di cani e gatti che non siano più in grado di detenere e accudire i propri animali per gravi e documentate esigenze quali gravi malattie, misure di sicurezza detentiva, ricovero in comunità o lungodegenza, in caso di cessione temporanea e/o definitiva dell'animale ne devono fare richiesta all'Ufficio Tutela Animali del Comune di Verona. L'Ufficio, in collaborazione con il Servizio Veterinario dell'Azienda Ulss 9 Scaligera e dopo adeguata valutazione, può dare consenso al ricovero presso il canile/gattile rifugio e, qualora si tratti di cessione definitiva, darà disposizione per una nuova adozione. Il mantenimento e l'eventuale sterilizzazione, tranne nei casi di comprovata indigenza, sarà posto a carico del cedente fino all'eventuale adozione. In tale ipotesi, salva diversa previsione del disciplinare e offerta tecnico-economica inerenti l'appalto del servizio di gestione del rifugio del cane e del gatto comunale, la tariffa giornaliera da applicare per il mantenimento dei cani e dei gatti è quella indicata dal tariffario unico della Regione del Veneto delle prestazioni rese dai Dipartimenti di Prevenzione delle Aziende ULSS.
+
+È vietato l'uso di collari con campanelli che possono provocare disturbi neurologici.
+
+È fatto divieto in via assoluta di tenere gatti a catena in quanto incompatibile con l'etologia degli stessi;
+
+Le persone coinvolte o che assistono a un incidente a qualunque titolo con danno a uno o più animali, devono porre in atto ogni misura idonea ad assicurare un tempestivo intervento di soccorso (Legge n. 120/2010 art. 31).
+
+È vietato conservare l'ittiofauna viva fuori dall'acqua, anche se posta sopra il ghiaccio e/o impianto refrigerativo.","È importante rispettare le leggi sul maltrattamento degli animali. Non si possono abbandonare o maltrattare animali di nessuna specie.
+
+Chi vive con un animale o se ne prende cura è responsabile della sua salute e benessere. Deve garantire un ambiente adeguato e fornire cure e attenzioni necessarie, considerando i bisogni dell'animale in base a età, sesso, specie e razza. In particolare, deve:
+- Dare cibo e acqua in quantità e modalità adeguate.
+- Fornire cure sanitarie e benessere fisico e sociale.
+- Far fare esercizio fisico quotidiano ai cani.
+- Evitare che l'animale scappi.
+- Proteggere le persone da eventuali aggressioni.
+- Mantenere puliti gli spazi dove vivono gli animali.
+- Assicurare spazi adeguati con protezione dal sole e dalle intemperie, e spazio sufficiente per muoversi.
+
+Non si possono tenere animali in spazi stretti o isolati, con cattiva ventilazione, illuminazione, temperatura o umidità. È vietato lasciare animali su terrazze o balconi senza accesso alla casa o isolarli in cortili o altri spazi senza sorveglianza.
+
+Gli animali che lo richiedono devono avere un rifugio adeguato. Gli animali che non possono convivere con altri devono essere separati.
+
+Chi possiede animali selvatici o esotici deve garantire condizioni compatibili con la loro natura. Non si possono portare animali esotici pericolosi o selvatici in luoghi pubblici.
+
+Non si possono tenere uccelli legati al trespolo. È vietato maltrattare animali o sottoporli a sforzi inutili.
+
+Non si possono portare animali al guinzaglio dietro veicoli in movimento. È vietato amputare parti del corpo degli animali per motivi estetici, salvo necessità mediche certificate.
+
+Non si possono addestrare animali per combattimenti o per renderli aggressivi, né usare metodi violenti o coercitivi. È vietato addestrare animali selvatici, tranne falconieri e animali artisti.
+
+Non si possono usare animali per divertimento pubblico in contrasto con le leggi, né organizzare combattimenti tra animali.
+
+Non si possono regalare animali come premi o omaggi in eventi pubblici. È vietato permettere la riproduzione non pianificata di animali se non si è in grado di gestire la prole.
+
+Chi fa riprodurre un animale deve considerare le sue caratteristiche per non danneggiare la salute della madre o dei cuccioli, seguendo le leggi vigenti.
+
+Non si possono trasportare animali in condizioni che causano sofferenza o danni. Chi guida un veicolo con animali deve garantire ventilazione, acqua, cibo e pause durante viaggi lunghi, e protezione da temperature estreme.
+
+È vietato usare animali per l'accattonaggio. Se si violano queste regole, gli animali vengono sequestrati e portati in rifugi.
+
+Non si possono sopprimere animali da compagnia se non con metodi eutanasici riconosciuti e solo per malattie incurabili o pericolosità, valutate da un veterinario esperto.
+
+Gli animali devono essere tenuti in modo da non disturbare i vicini. Se in una casa ci sono più di cinque cani o dieci gatti, serve l'autorizzazione del Sindaco.
+
+Se un animale è lasciato in un'auto, i finestrini devono essere aperti per la ventilazione, ma l'animale non deve poter uscire. La sosta non deve essere troppo lunga o al sole.
+
+Chi porta animali in spazi pubblici deve raccogliere le deiezioni e smaltirle correttamente. Questa regola non si applica ai cani guida per non vedenti.
+
+Gli animali possono salire sui mezzi pubblici a Verona, ma non quelli selvatici. Devono essere accompagnati e, per i cani, servono guinzaglio e museruola. I gatti devono essere in gabbiette. Se il mezzo è affollato, l'accesso può essere negato per sicurezza.
+
+Chi non può più prendersi cura di un animale per gravi motivi deve contattare l'Ufficio Tutela Animali per il ricovero in rifugi. I costi sono a carico del proprietario, salvo casi di indigenza.
+
+Non si possono usare collari con campanelli che disturbano gli animali. È vietato tenere gatti a catena.
+
+Chi assiste a un incidente con animali deve chiamare i soccorsi.
+
+Non si possono tenere pesci vivi fuori dall'acqua, nemmeno su ghiaccio.",630,713,3305,3388,1415,310,259,49,0,179,144,2,0,31,53,33,0,53,87,1,83,0,40,7,114,30,49.2063492063492,59.87301587301587,47.150793650793645,0.6460317460317461,557,496,91,57,94.6836531162262,6574,139,744,122,513,0.11900000000000001,0.968,0.113,0.256
+veneto,Regolamento comunale per la tutela degli animali,4,"Art. 5 – Cattura, detenzione e commercio di fauna selvatica","È fatto divieto di molestare, catturare, detenere e/o commerciare le specie animali appartenenti alla fauna selvatica autoctona, e alloctona nonché distruggere i siti di riproduzione, fatto salvo quanto stabilito dalle leggi vigenti che disciplinano l'esercizio della caccia, della pesca e delle normative sanitarie. È vietato a chiunque, fatte salve specifiche autorizzazioni, immettere allo stato libero o abbandonare in qualunque parte del territorio comunale, esemplari di fauna selvatica alloctona o autoctona con acquisite abitudini alla cattività, detenuti a qualunque titolo.","Non si possono molestare, catturare, tenere o vendere animali della fauna selvatica locale o non locale. Non si possono nemmeno distruggere i loro siti di riproduzione, a meno che le leggi sulla caccia, pesca e sanità non dicano diversamente. Inoltre, nessuno può liberare o abbandonare animali selvatici, sia locali che non locali, abituati alla cattività, in qualsiasi parte del territorio comunale, a meno che non abbia un'autorizzazione specifica.",69,81,372,384,162,54,48,3,0,13,13,0,0,11,5,4,0,8,8,0,12,0,5,2,13,0,78.26086956521739,48.130434782608695,30.391304347826065,0.6521739130434783,59,53,7,9,94.52140927314758,314,36,44,32,30,0.826,0.99,0.993,0.892
+campania,Regolamento d'uso degli impianti sportivi,1,ART. 1,"Gli Impianti Sportivi del Comune di Napoli sono destinati all'uso pubblico per la diffusione e la pratica dello sport inteso nelle sue forme educative, ricreative, addestrative ed agonistiche ed, in alternativa, per manifestazioni non sportive.
+
+L'utilizzo degli impianti sportivi comunali è prioritariamente rivolto a soddisfare gli interessi generali della città.
+
+I Concessionari e/o gli utenti degli impianti sportivi comunali possono essere: le Società Sportive, le Federazioni Sportive, gli Enti di Promozione Sportiva, le Scuole d'obbligo e Superiori e, in genere, tutti gli organismi associativi che perseguono finalità formative, ricreative e sociali nell'ambito dello Sport.
+
+I singoli cittadini possono utilizzare gli impianti sportivi.
+
+Le modalità d'uso degli impianti sportivi sono stabilite dal seguente Regolamento.","Gli Impianti Sportivi del Comune di Napoli sono aperti al pubblico per promuovere e praticare lo sport in modo educativo, ricreativo, formativo e agonistico. Possono anche essere usati per eventi non sportivi.
+
+L'uso degli impianti sportivi comunali serve principalmente a soddisfare gli interessi della città.
+
+Possono utilizzare gli impianti sportivi comunali: le Società Sportive, le Federazioni Sportive, gli Enti di Promozione Sportiva, le Scuole d'obbligo e Superiori e tutti gli organismi associativi che hanno scopi formativi, ricreativi e sociali legati allo sport.
+
+Anche i singoli cittadini possono usare gli impianti sportivi.
+
+Le regole per l'uso degli impianti sportivi sono descritte nel Regolamento.",105,118,597,610,248,78,61,7,0,27,17,0,0,4,15,1,0,20,15,1,13,0,5,0,12,5,74.28571428571429,52.142857142857146,37.47619047619048,0.6476190476190476,83,74,9,9,98.03045392036438,217,30,43,21,29,0.528,0.19899999999999998,0.021,0.039
+campania,Regolamento d'uso degli impianti sportivi,2,ART. 2,"Gli impianti sportivi comunali di interesse cittadino, cosiddetti storici sono gestiti dal Dipartimento Educazione e Cultura, Servizio Gestione Grandi Impianti Sportivi. - Gli impianti sportivi a scala circoscrizionale sono gestiti dal Servizio Amministrativo Circoscrizionale.
+
+Le destinazioni e le concessioni d'uso degli impianti sportivi comunali sono determinate dal Servizio GG.II.SS. e vistate dall'Assessore al ramo, nell'ambito degli indirizzi programmatici stabiliti per le diverse discipline sportive, e alle condizioni previste dal presente Regolamento e con le tariffe deliberate dal Consiglio Comunale. La Giunta Comunale può deliberare la concessione gratuita degli Impianti per manifestazioni di particolare interesse pubblico e senza scopo di lucro. I Consigli Circoscrizionali possono utilizzare gli impianti sportivi, cosiddetti storici, insistenti sul proprio territorio, o, in assenza, quelli limitrofi, purché le manifestazioni rientrino in un programma di rilevante interesse circoscrizionale, compatibile con la destinazione d'uso dell'impianto, e, preventivamente, concordato con l'Assessore al ramo. In tale caso l'utilizzo è da intendersi a titolo gratuito, previa approvazione della Giunta Comunale.
+
+Nei giorni di Sabato e Domenica tutti gli impianti di dimensioni regolamentari sono destinati prevalentemente allo svolgimento di campionati e di manifestazioni.","Il Dipartimento Educazione e Cultura, attraverso il Servizio Gestione Grandi Impianti Sportivi, gestisce gli impianti sportivi comunali di interesse cittadino, detti storici. Gli impianti sportivi a livello di quartiere sono invece gestiti dal Servizio Amministrativo Circoscrizionale.
+
+Il Servizio Gestione Grandi Impianti Sportivi decide come utilizzare e concedere gli impianti sportivi comunali. L'Assessore competente approva queste decisioni, seguendo le linee guida per le diverse discipline sportive, le condizioni del Regolamento e le tariffe stabilite dal Consiglio Comunale. La Giunta Comunale può decidere di concedere gratuitamente gli impianti per eventi di particolare interesse pubblico e senza scopo di lucro. I Consigli Circoscrizionali possono usare gli impianti sportivi storici nel loro territorio, o quelli vicini se non ne hanno, per eventi di grande interesse per il quartiere. Questi eventi devono essere compatibili con l'uso dell'impianto e concordati con l'Assessore competente. In questi casi, l'uso è gratuito, ma serve l'approvazione della Giunta Comunale.
+
+Il Sabato e la Domenica, tutti gli impianti di dimensioni regolamentari sono principalmente riservati a campionati e manifestazioni.",173,192,1034,1053,429,113,90,9,0,48,23,0,0,4,28,2,0,28,24,5,19,0,9,2,19,4,65.3179190751445,44.83815028901734,25.59280667951186,0.5953757225433526,151,130,21,17,95.95394134521484,532,52,62,48,39,0.7440000000000001,0.066,0.36,0.02
+campania,Regolamento d'uso degli impianti sportivi,3,ART. 3,"Fermo restando le tariffe fissate con deliberazione consiliare n.44 del 28/2/97 nonché la percentuale di copertura dei costi di gestione dei servizi pubblici a domanda individuale in essa indicata, si individuano, come categoria privilegiata, gli atleti che svolgono attività agonistica nelle varie discipline ed i cui nominativi saranno indicati dalle Federazioni, con l'approvazione del CONI. Per tale categoria non si applica la tariffa.","Le tariffe stabilite con la deliberazione consiliare n.44 del 28/2/97 e la percentuale di copertura dei costi di gestione dei servizi pubblici a domanda individuale rimangono invariate. Tuttavia, gli atleti che praticano attività agonistica in diverse discipline sono considerati una categoria privilegiata. Le Federazioni, con l'approvazione del CONI, indicheranno i nomi di questi atleti. Per loro, la tariffa non si applica.",62,70,359,367,150,53,47,4,0,17,7,1,0,2,11,3,0,6,13,1,8,0,1,0,5,2,85.48387096774194,50.45161290322581,33.24193548387095,0.5161290322580645,48,38,10,5,97.8709876537323,152,16,19,14,15,0.35100000000000003,1.0,0.006999999999999999,0.005
+campania,Regolamento d'uso degli impianti sportivi,4,ART. 13,"Indipendentemente dall'osservanza di quanto sopra riportato, non sarà consentito l'accesso all'impianto:
+- agli Atleti o iscritti a Società ed Associazioni se non accompagnati da un Allenatore munito di idoneo tesserino federale;
+- agli studenti, nei periodi e nelle fasce orarie di cui all'art. 3 Capo II, se non accompagnati da almeno un Docente o da Personale Ausiliario della Scuola, appositamente incaricati dal Direttore Didattico o dal Preside.","Non sarà permesso entrare nell'impianto:
+- agli atleti o ai membri di società e associazioni, se non sono accompagnati da un allenatore con un tesserino federale valido;
+- agli studenti, nei periodi e orari indicati nell'articolo 3 Capo II, se non sono accompagnati da almeno un docente o da personale ausiliario della scuola, incaricati dal direttore didattico o dal preside.",60,69,308,317,133,46,42,3,0,17,9,1,0,4,3,0,0,5,14,0,9,0,5,2,3,6,76.66666666666667,52.666666666666664,41.91666666666666,0.5833333333333334,46,39,6,7,97.76557683944702,135,25,33,20,18,0.586,0.9570000000000001,0.978,0.996
+campania,Regolamento d'uso degli impianti sportivi,5,ART. 16,"I Concessionari degli impianti, quali le Società, le Associazioni, ecc., rispondono in solido verso il Comune per eventuali danni da essi arrecati agli impianti, agli attrezzi, accessori ed arredi, ecc.. Il relativo controllo è demandato al Responsabile dell'impianto. Entro 5 giorni, il concessionario dovrà provvedere, a sue spese, al ripristino dello stato dei luoghi; nel caso contrario, l'Amministrazione Comunale provvederà in danno. L'importo dovuto per l'esecuzione di tali lavori dovrà essere corrisposto sulla mensilità seguente all'esecuzione dei lavori.
+
+I Concessionari rispondono, inoltre, nei confronti del Comune per qualsiasi danno dovesse verificarsi a persone o cose da parte del pubblico intervenuto alle manifestazioni, gare o esibizioni dagli stessi organizzate.","I gestori degli impianti, come le società e le associazioni, sono responsabili insieme al Comune per eventuali danni che causano agli impianti, agli attrezzi, agli accessori e agli arredi. Il Responsabile dell'impianto controlla questi aspetti. Se ci sono danni, il gestore deve riparare tutto a sue spese entro 5 giorni. Se non lo fa, il Comune si occuperà delle riparazioni e il gestore dovrà pagare i costi il mese successivo.
+
+Inoltre, i gestori sono responsabili verso il Comune per qualsiasi danno a persone o cose causato dal pubblico durante eventi, gare o esibizioni che organizzano.",96,109,484,497,205,71,59,5,0,30,13,1,0,3,15,6,0,4,16,1,13,0,5,2,13,0,73.95833333333334,54.208333333333336,47.99791666666668,0.5208333333333334,82,75,7,8,93.56818199157715,349,48,67,45,45,0.5,0.361,0.094,0.008
+campania,Regolamento d'uso degli impianti sportivi,6,ART. 17,"L'uso dell'Impianto Sportivo, delle attrezzature, dei locali e degli accessori s'intende effettuato a rischio e pericolo di chi pratica attività sportive, con esclusione di ogni responsabilità a carico del Comune. La Società, l'Ente, l'Associazione ha l'obbligo di provvedere alla copertura assicurativa dei propri atleti fruitori dell'impianto al fine di sollevare il Comune da ogni responsabilità di qualsiasi natura ed origine, per eventuali incidenti o danni che gli stessi potrebbero subire. Il Concessionario stesso rimetterà dichiarazione comprovante l'avvenuto adempimento dell'obbligazione assunta.
+
+I Concessionari si intendono espressamente obbligati a tenere sollevato e indenne il Comune di Napoli da tutti i danni, sia diretti che indiretti, che dovessero comunque essere arrecati a persone o cose, in dipendenza o in connessione alla concessione in uso dell'impianto.","Chi utilizza l'Impianto Sportivo, le attrezzature, i locali e gli accessori lo fa a proprio rischio. Il Comune non è responsabile per eventuali incidenti o danni. La Società, l'Ente o l'Associazione deve assicurare i propri atleti che usano l'impianto, così da liberare il Comune da ogni responsabilità. Il Concessionario deve fornire una dichiarazione che dimostri di aver rispettato questo obbligo.
+
+I Concessionari devono garantire che il Comune di Napoli non sia ritenuto responsabile per danni a persone o cose, sia diretti che indiretti, legati all'uso dell'impianto.",92,103,476,487,201,69,60,5,0,22,19,0,0,3,19,4,0,5,10,4,11,0,4,2,17,2,75.0,53.56521739130435,45.5891304347826,0.532608695652174,84,79,5,8,96.46947979927063,426,28,59,27,41,0.478,0.397,0.045,0.14300000000000002
+lazio,Regolamento degli Asili Nido,1,Art. 1 Il nido,"Il nido, già denominato asilo nido, accoglie i bambini di età compresa tra tre mesi e tre anni, residenti nel Comune di Roma: che siano domiciliati nel territorio circoscrizionale di utenza del nido, oppure che abbiano un genitore che presti attività lavorativa nella stessa area. In base al principio di continuità dell'esperienza educativa:
+- i bambini che compiono i tre anni entro il 31 dicembre saranno iscritti alla scuola dell'infanzia e ammessi sin dall'inizio dell'anno scolastico;
+- i bambini che compiono i tre anni dopo il 31 dicembre frequenteranno il nido fino alla chiusura dell'anno di attività.
+
+Nei nidi comunali trovano accesso a pieno diritto i bambini in situazioni di handicap.
+
+Per i bambini apolidi, nomadi o stranieri privi di residenza l'assegnazione al nido avviene sulla base della temporanea dimora.","Il nido, prima chiamato asilo nido, accoglie i bambini tra i tre mesi e i tre anni che vivono nel Comune di Roma. Possono frequentare il nido i bambini che abitano nella zona del nido o che hanno un genitore che lavora lì. Secondo il principio di continuità educativa:
+- i bambini che compiono tre anni entro il 31 dicembre andranno alla scuola dell'infanzia dall'inizio dell'anno scolastico;
+- i bambini che compiono tre anni dopo il 31 dicembre resteranno al nido fino alla fine dell'anno.
+
+I bambini con disabilità hanno pieno diritto di accesso ai nidi comunali.
+
+Per i bambini apolidi, nomadi o stranieri senza residenza, l'assegnazione al nido si basa sul luogo in cui vivono temporaneamente.",120,133,567,580,243,78,68,7,0,37,15,6,0,4,16,8,0,7,23,1,13,0,3,0,15,0,65.0,59.25,57.23214285714286,0.525,97,83,15,6,97.96723127365112,257,27,39,22,32,0.28,0.005,0.489,0.003
+lazio,Regolamento degli Asili Nido,2,Art. 5 Ammissione,"Possono presentare domanda di ammissione ai nidi della Circoscrizione i genitori del bambino e le gestanti al settimo mese di gravidanza.
+
+Le domande di iscrizione debbono essere presentate in Circoscrizione entro il 20 maggio, a seguito di avviso pubblico del Dirigente Circoscrizionale esposto entro e non oltre il 30 marzo.
+
+La determinazione delle graduatorie per fasce di età, dovrà avvenire a cura del Comitato di gestione entro il 10 giugno e le graduatorie stesse, ivi compresa quella unica circoscrizionale dei bambini in lista d'attesa, dovranno essere approvate da soggetti competenti secondo le norme del Regolamento sul Decentramento Amministrativo.
+
+Qualora una delle graduatorie per i medi o per i grandi andasse ad esaurimento si verificherà la possibilità di coprire i posti attingendo all'altra graduatoria compatibilmente con l'organizzazione generale del servizio.
+
+L'utente potrà presentare ricorso entro il 20 giugno. Tale ricorso dovrà essere esaminato dal Direttore educativo, sentito il parere del Presidente del Comitato di gestione, entro 30 giugno.
+
+Le graduatorie così predisposte determinano l'ingresso nelle singole strutture e concorrono a determinare per gli utenti in attesa, la graduatoria unica circoscrizionale che viene utilizzata per l'ingresso durante l'anno ove si determini la disponibilità, ferma restando l'opzione da parte dell'utente.
+
+Se entro il 31 dicembre il Direttore educativo verifica una sopravvenuta disponibilità di posti, per l'esaurimento della graduatoria unica circoscrizionale, richiede ai competenti Organi Circoscrizionali l'attivazione delle procedure per la predisposizione di un nuovo bando al fine di determinare una nuova graduatoria accogliendo nuove domande di iscrizione.","I genitori dei bambini e le donne incinte al settimo mese possono fare domanda per iscrivere i loro figli ai nidi della Circoscrizione.
+
+Devono presentare le domande di iscrizione in Circoscrizione entro il 20 maggio, dopo che il Dirigente Circoscrizionale ha pubblicato un avviso pubblico entro il 30 marzo.
+
+Il Comitato di gestione deve preparare le graduatorie per fasce di età entro il 10 giugno. Le graduatorie, comprese quelle dei bambini in lista d'attesa, devono essere approvate da persone competenti secondo le regole del Regolamento sul Decentramento Amministrativo.
+
+Se una delle graduatorie per i bambini medi o grandi si esaurisce, si può coprire i posti disponibili usando l'altra graduatoria, se l'organizzazione del servizio lo permette.
+
+Gli utenti possono fare ricorso entro il 20 giugno. Il Direttore educativo, dopo aver ascoltato il parere del Presidente del Comitato di gestione, deve esaminare il ricorso entro il 30 giugno.
+
+Le graduatorie stabiliscono chi entra nelle strutture e formano una graduatoria unica per chi è in attesa. Questa graduatoria viene usata per l'ingresso durante l'anno se ci sono posti disponibili, rispettando la scelta dell'utente.
+
+Se entro il 31 dicembre il Direttore educativo trova nuovi posti disponibili perché la graduatoria unica è esaurita, chiede agli Organi Circoscrizionali di avviare le procedure per un nuovo bando e accogliere nuove domande di iscrizione.",222,241,1181,1200,489,141,112,10,0,60,38,6,0,1,35,8,0,21,39,3,19,0,4,7,31,7,63.51351351351351,49.31531531531532,40.62432432432432,0.5405405405405406,187,167,20,12,98.25211763381958,722,60,73,58,57,0.773,0.779,0.12,0.22
+lazio,Regolamento degli Asili Nido,3,Art. 6 Criteri per le graduatorie,"Al fine di garantire a livello cittadino uniformità di valutazione, le graduatorie saranno predisposte secondo i punteggi definiti dalla Ripartizione competente sulla base delle seguenti priorità:
+- bambini portatori di handicap certificato dalle UU.SS.LL.;
+- bambini il cui nucleo familiare presenti una situazione socio-ambientale, segnalata e/o documentata dai servizi sociali operanti presso le strutture pubbliche territoriali, tale da essere di serio pregiudizio per un sano sviluppo psicofisico del bambino stesso;
+- bambini di madre nubile lavoratrice o padre celibe lavoratore o vedova/o o comunque provenienti da famiglie dissociate, ove, per motivi diversi, bambino viva con uno solo dei genitori o sia orfano di ambedue;
+- bambini conviventi con un solo genitore;
+- bambini i cui genitori lavorano entrambi.
+- bambini gemelli.
+
+Saranno inoltre privilegiati i bambini appartenenti a nuclei familiari le cui posizioni lavorative configurino redditi più bassi e comunque documentati.
+
+Per bambini in situazioni di emergenza sociale, segnalati dai servizi sociali, dal Servizio Materno Infantile delle UU.SS.LL., il Dirigente preposto Circoscrizione provvede all'ammissione al nido anche in deroga alle date sopra indicate all'articolo 5. Nei casi di provvedimenti adottati dall'Autorità di Giustizia Minorile viene ottemperato a quanto stabilito dal provvedimento stesso e si dispone l'immediata ammissione del bambino al nido nell'ambito del 15% in più rispetto alla capienza.
+
+Analogamente, nel caso di bambini portatori di handicap, non inseriti nella graduatoria entro i termini di legge, il Direttore educativo dispone l'immediata ammissione del bambino al nido sempre nell'ambito del 15% in più rispetto alla capienza.","Per garantire una valutazione uniforme a livello cittadino, le graduatorie saranno create in base ai punteggi stabiliti dalla Ripartizione competente, seguendo queste priorità:
+
+1. Bambini con disabilità certificata dalle UU.SS.LL.
+2. Bambini con situazioni familiari difficili, segnalate o documentate dai servizi sociali, che possono compromettere il loro sviluppo psicofisico.
+3. Bambini con madre nubile lavoratrice, padre celibe lavoratore, vedova/o, o provenienti da famiglie separate, dove vivono con un solo genitore o sono orfani di entrambi.
+4. Bambini che vivono con un solo genitore.
+5. Bambini con entrambi i genitori lavoratori.
+6. Bambini gemelli.
+
+Avranno priorità anche i bambini di famiglie con redditi più bassi, documentati.
+
+Per i bambini in situazioni di emergenza sociale, segnalati dai servizi sociali o dal Servizio Materno Infantile delle UU.SS.LL., il Dirigente della Circoscrizione può ammetterli al nido anche oltre le date indicate nell'articolo 5. Se ci sono provvedimenti dell'Autorità di Giustizia Minorile, si seguiranno le indicazioni del provvedimento e il bambino sarà ammesso immediatamente al nido, fino al 15% in più della capienza.
+
+Allo stesso modo, per i bambini con disabilità non inseriti in graduatoria nei termini di legge, il Direttore educativo può ammetterli immediatamente al nido, sempre entro il 15% in più della capienza.",203,240,1135,1172,486,136,110,12,0,57,26,9,2,11,19,5,0,22,43,4,35,0,6,1,22,4,66.99507389162561,50.82266009852217,33.46756978653529,0.5714285714285714,144,125,18,14,97.10627794265747,599,58,91,34,64,0.094,0.899,0.917,0.992
+lazio,Regolamento degli Asili Nido,4,Art. 8 Assenza e decadenza,"Le assenze degli utenti, superiori a 5 giorni consecutivi, comportano, sempre, la presentazione del certificato medico al momento del rientro al nido.
+
+Le assenze del bambino, superiori a 10 giorni consecutivi, non giustificate per iscritto, nonostante il sollecito, comportano la decadenza dal posto; la richiesta di giustificazione, con le predette modalità è prevista anche per assenze inferiori a 10 giorni se ripetute per un totale di 20 giorni in un trimestre. In questi casi la decadenza è proposta dal Comitato di gestione e disposta dal Direttore educativo con proprio atto, la copertura dei posti vacanti per rinuncia o per decadenza va predisposta da parte del Coordinatore educativo di concerto con il Direttore educativo nei dieci giorni successivi all'avvenuta vacanza e disposta dal Direttore educativo.","Se un bambino è assente per più di 5 giorni consecutivi, i genitori devono presentare un certificato medico quando il bambino torna al nido.
+
+Se un bambino è assente per più di 10 giorni consecutivi senza giustificazione scritta, anche dopo un sollecito, perde il posto al nido. I genitori devono giustificare anche le assenze inferiori a 10 giorni se queste si ripetono per un totale di 20 giorni in un trimestre. In questi casi, il Comitato di gestione propone la decadenza del posto e il Direttore educativo la conferma con un atto ufficiale. Il Coordinatore educativo, insieme al Direttore educativo, deve coprire i posti vacanti entro dieci giorni dalla loro disponibilità, e il Direttore educativo dispone la copertura.",118,130,595,607,263,75,65,5,0,33,13,5,0,2,23,4,0,13,19,0,12,0,2,4,13,0,63.559322033898304,51.28813559322034,37.52711864406782,0.5169491525423728,101,86,17,7,96.69072031974792,371,36,42,35,28,0.755,0.01,0.006999999999999999,0.0
+basilicata,Regolamento del Verde urbano pubblico e privato,1,Art. 1 - GENERALITÀ,"Il presente Regolamento del Verde Urbano Pubblico e Privato, di seguito chiamato semplicemente Regolamento, detta la disciplina degli interventi sulla vegetazione e sulle alberature ricadenti nel territorio comunale, al fine di garantirne la valorizzazione, la salvaguardia e la razionale gestione, nel rispetto delle condizioni di decoro, sicurezza, incolumità pubblica e accessibilità.
+
+Le norme del Regolamento si applicano in particolare:
+- a tutte le aree di proprietà pubblica da sistemare a verde, ovunque ubicate;
+- alle alberature delle zone, sia pubbliche che private, interne al perimetro del centro abitato;
+- alle alberature delle zone, sia pubbliche che private, ubicate entro mt. 30,00 dalla mezzeria delle strade pubbliche, ed entro mt. 30,00 da corsi d'acqua;
+- alle alberature che rivestono prevalente funzione ornamentale, di pertinenza di costruzioni edilizie, ovunque ubicate.
+
+Non sono oggetto del Regolamento, indipendentemente dall'ubicazione, gli alberi da frutto, gli alberi costituenti colture arboree specializzate per arboricoltura da legno, gli alberi facenti parte di formazioni forestali e, in generale, tutta la vegetazione ricadente nelle zone rurali coltivate.
+
+L'Ufficio competente per le materie disciplinate dal Regolamento è l'Ufficio Verde Urbano Pubblico e Privato, istituito presso l'Unità di Direzione ""Centro Storico - Qualità Urbana"" del Comune.
+
+Ai fini del Regolamento le alberature in ambito comunale sono classificate come segue, in funzione della loro altezza e dello sviluppo a maturità:
+- piante di 1a grandezza con altezza > mt. 18,00
+- piante di 2a grandezza con altezza tra mt. 12,00 e 18,00
+- piante di 3a grandezza con altezza < mt. 12,00
+- alberature ed arbusti con altezza < mt. 5,00
+
+Possono sottoscrivere progetti e relazioni tecniche relativi a interventi disciplinati dal presente Regolamento, le figure professionali e i tecnici specificamente abilitati in materia botanica e ambientale.","Questo Regolamento del Verde Urbano Pubblico e Privato, che chiameremo semplicemente Regolamento, stabilisce le regole per gli interventi su piante e alberi nel territorio del comune. L'obiettivo è valorizzare, proteggere e gestire in modo razionale la vegetazione, rispettando il decoro, la sicurezza, la pubblica incolumità e l'accessibilità.
+
+Le norme del Regolamento si applicano a:
+- tutte le aree pubbliche destinate a verde, ovunque si trovino;
+- gli alberi nelle zone pubbliche e private all'interno del centro abitato;
+- gli alberi nelle zone pubbliche e private entro 30 metri dal centro delle strade pubbliche e dai corsi d'acqua;
+- gli alberi con funzione ornamentale vicino agli edifici, ovunque si trovino.
+
+Il Regolamento non si applica a:
+- alberi da frutto;
+- alberi coltivati per legname;
+- alberi parte di foreste;
+- vegetazione nelle zone rurali coltivate.
+
+L'Ufficio Verde Urbano Pubblico e Privato, che fa parte dell'Unità di Direzione ""Centro Storico - Qualità Urbana"" del Comune, è responsabile delle materie del Regolamento.
+
+Le alberature nel comune sono classificate in base alla loro altezza e sviluppo a maturità:
+- piante di 1a grandezza: altezza superiore a 18 metri;
+- piante di 2a grandezza: altezza tra 12 e 18 metri;
+- piante di 3a grandezza: altezza inferiore a 12 metri;
+- alberature e arbusti: altezza inferiore a 5 metri.
+
+Solo i professionisti e i tecnici abilitati in botanica e ambiente possono firmare progetti e relazioni tecniche per gli interventi previsti dal Regolamento.",231,279,1229,1277,529,134,113,23,0,78,21,6,0,6,23,6,0,28,43,6,48,0,14,0,19,2,58.00865800865801,65.66666666666667,47.103707886316585,0.5757575757575758,177,162,15,27,95.58396935462952,770,53,96,41,46,0.092,0.207,0.807,0.9209999999999999
+basilicata,Regolamento del Verde urbano pubblico e privato,2,Art. 2 SALVAGUARDIA DELLE ALBERATURE ESISTENTI,"Su tutto il territorio comunale sono oggetto di particolare salvaguardia:
+- gli arbusti che per rarità di specie, morfologia o vetustà, risultino di particolare pregio;
+- gli alberi (conifere e latifoglie) aventi circonferenza del fusto, misurata a cm. 130 di altezza dal colletto, superiore alle misure sotto indicate:
+    - cm. 60 per piante di 1a grandezza
+    - cm. 50 per piante di 2a grandezza
+    - cm. 30 per piante di 3a grandezza
+- le piante con più fusti, qualora almeno uno di essi raggiunga la circonferenza pari a cm. 20.
+- gli alberi ricadenti nei Parchi urbani e nei Giardini storici e gli alberi monumentali di cui al successivo articolo 14.
+
+Le operazioni di sostituzione di alberi esistenti e di impianto di nuove alberature sono assoggettate alle prescrizioni dettate dall'articolo 6 del Regolamento.","Nel nostro comune, proteggiamo in modo speciale:
+
+- Gli arbusti che sono rari, hanno una forma particolare o sono molto vecchi e preziosi.
+- Gli alberi, sia conifere che latifoglie, con un tronco di una certa circonferenza misurata a 130 cm dal suolo:
+  - 60 cm per alberi di prima grandezza
+  - 50 cm per alberi di seconda grandezza
+  - 30 cm per alberi di terza grandezza
+- Le piante con più tronchi, se almeno uno di questi ha una circonferenza di 20 cm.
+- Gli alberi nei parchi urbani, nei giardini storici e gli alberi monumentali descritti nell'articolo 14.
+
+Per sostituire alberi esistenti o piantare nuovi alberi, bisogna seguire le regole dell'articolo 6 del Regolamento.",111,130,538,557,223,80,68,5,0,33,11,7,0,4,11,3,0,14,21,0,19,0,5,2,11,0,72.07207207207207,54.04504504504504,53.21441441441441,0.5585585585585585,87,75,12,11,93.86811852455139,321,47,47,40,28,0.081,0.062,0.951,0.10800000000000001
+basilicata,Regolamento del Verde urbano pubblico e privato,3,Art. 3 ABBATTIMENTI,"L'abbattimento di alberi vivi, deperienti o morti, salvo il caso di interventi effettuati direttamente dall'Amministrazione comunale, è soggetto a richiesta di autorizzazione corredata della documentazione di cui all'Allegato A, necessaria a individuare l'operazione e descriverne le motivazioni.
+
+Sull'istanza di abbattimento, regolarmente presentata e documentata, l'Ufficio competente si esprime entro 20 giorni, decorsi i quali l'intervento si intende autorizzato.
+
+L'autorizzazione al taglio di alberi fissa condizioni circa:
+- modalità e tempi di abbattimento, con l'obbligo di rispettare, per quanto possibile e salvo casi di pericolo imminente, il periodo di riproduzione dell'avifauna (marzo-agosto);
+- modalità e tempi per interventi di sostituzione e impianto di nuove alberature (essenze da utilizzare, nuovo terreno di coltivo, estirpazione delle ceppaie, etc.)
+
+Qualora l'abbattimento riguardi alberi su suolo pubblico, gli interessati sono tenuti a corrispondere all'Amministrazione comunale una somma pari al valore ornamentale (V.O.) della pianta, calcolata secondo la metodologia di cui all'Allegato A.
+
+Sono assoggettati alla disciplina del presente articolo anche gli abbattimenti necessari per l'attuazione degli strumenti urbanistici e per la realizzazione di opere pubbliche.
+
+Sono esclusi dalle norme del presente articolo gli abbattimenti ordinati da sentenze giudiziarie, quelli da eseguire in attuazione del Codice della Strada e ogni intervento programmato dall'Amministrazione comunale per ragioni di incolumità pubblica, per evitare scosciature da carichi da neve e per la riqualificazione delle condizioni ambientali e vegetazionali attraverso sfolli o diradamenti.
+
+L'Amministrazione Comunale e/o il proprietario dell'area, previo rilascio del nulla osta da parte dell'ufficio comunale competente sul Verde Urbano, potranno procedere all'abbattimento di alberi vivi e/o in buono stato vegetativo che presentino un apparato radicale (ipogeo) che provochi il danneggiamento della sede stradale, con pregiudizio per la sicurezza stradale, con pregiudizio per la sicurezza della circolazione di veicoli e pedoni, o che procuri danni alle pertinenze di proprietà dell'Ente o di privati o che comprometta la stabilità o la funzionalità di edifici pubblici o privati situati nell'immediata vicinanza dell'albero. La valutazione sull'abbattimento da parte dell'ufficio competente sul Vede Urbano non potrà essere limitata al solo rialzo della zona del colletto dell'albero ma dovrà verificare il danno prodotto dall'intero apparato radicale. La valutazione sulla necessità di procedere all'abbattimento degli alberi verrà effettuata dai tecnici degli uffici competenti sul verde urbano, per l'Amministrazione Comunale, e da parte dei tecnici abilitati per i soggetti privati. Gli alberi abbattuti ai sensi del presente comma andranno sostituiti con un numero di alberi pari o superiore agli alberi abbattuti. Resta inteso che il taglio dell'albero andrà effettuato nel periodo del riposo vegetativo (tra ottobre e marzo).","Se vuoi abbattere alberi vivi, malati o morti, devi chiedere un'autorizzazione, a meno che l'intervento non sia fatto direttamente dal Comune. Devi allegare i documenti indicati nell'Allegato A per spiegare l'operazione e le sue motivazioni.
+
+L'Ufficio competente risponde alla richiesta di abbattimento entro 20 giorni. Se non risponde, l'abbattimento è considerato autorizzato.
+
+L'autorizzazione per il taglio degli alberi stabilisce:
+- come e quando abbattere gli alberi, cercando di evitare il periodo di riproduzione degli uccelli (marzo-agosto), a meno che non ci sia un pericolo immediato;
+- come e quando piantare nuovi alberi, specificando quali piante usare e come preparare il terreno.
+
+Se l'abbattimento riguarda alberi su suolo pubblico, devi pagare al Comune una somma pari al valore ornamentale dell'albero, calcolato come indicato nell'Allegato A.
+
+Queste regole valgono anche per abbattimenti necessari per piani urbanistici o opere pubbliche.
+
+Non si applicano invece agli abbattimenti ordinati da sentenze giudiziarie, a quelli previsti dal Codice della Strada, o a interventi programmati dal Comune per motivi di sicurezza pubblica o per migliorare l'ambiente.
+
+Il Comune o il proprietario del terreno possono abbattere alberi vivi che danneggiano strade o edifici, previa autorizzazione dell'ufficio comunale competente. L'ufficio deve valutare l'intero apparato radicale dell'albero, non solo la parte superficiale. I tecnici del Comune o tecnici privati abilitati faranno questa valutazione. Gli alberi abbattuti devono essere sostituiti con un numero uguale o maggiore di nuovi alberi. Il taglio deve avvenire tra ottobre e marzo, quando gli alberi sono in riposo vegetativo.",257,290,1418,1451,612,167,136,15,0,68,47,1,0,11,30,4,0,27,38,6,33,0,13,12,40,7,64.98054474708171,51.33463035019455,34.08067444876783,0.5953307392996109,215,194,21,23,93.4420108795166,1646,86,182,76,120,0.45399999999999996,0.547,0.11900000000000001,0.281
+basilicata,Regolamento del Verde urbano pubblico e privato,4,Art. 4 POTATURE,"La potatura delle alberature, salvo il caso di interventi effettuati direttamente dal personale dell'Amministrazione comunale per eliminazione dei rami secchi, lesionati o ammalorati e per prevenire rotture da carichi di neve, è soggetta a specifica richiesta di autorizzazione corredata della documentazione di cui all'Allegato A.
+
+L'Ufficio competente autorizza interventi di potatura solo se rientranti nelle seguenti tipologie o situazioni straordinarie:
+- operazioni di difesa fitosanitaria;
+- rimozione di branche per ostacolo alla circolazione o interferenza con elettrodotti;
+- interventi a tutela dell'igiene e della pubblica incolumità.
+
+Sono ammessi, di norma, tagli su branche fino a 10 cm. di diametro o cm. 30 di circonferenza, purché netti ed eseguiti a perfetta regola, rispettando il collare nella parte residua.
+
+È escluso ogni intervento di capitozzatura tale da interrompere la naturale crescita del fusto.
+
+Non sono soggetti alle limitazioni di cui ai punti precedenti gli alberi e i viali alberati già gravemente compromessi da drastiche operazioni di capitozzatura e diradamento intenso, purché inseriti in un piano organico di sostituzione poliennale da approvare a cura della Giunta comunale.","Se vuoi potare gli alberi, devi chiedere un'autorizzazione, a meno che non sia il personale del Comune a farlo per rimuovere rami secchi, danneggiati o pericolosi a causa della neve.
+
+L'Ufficio competente concede l'autorizzazione solo per questi motivi:
+- protezione delle piante da malattie;
+- rimozione di rami che bloccano la strada o toccano i cavi elettrici;
+- protezione dell'igiene e della sicurezza pubblica.
+
+Di solito, puoi tagliare rami con un diametro fino a 10 cm o una circonferenza di 30 cm, ma devi farlo in modo preciso e corretto, rispettando il collare del ramo.
+
+Non puoi fare tagli che fermano la crescita naturale del tronco.
+
+Le limitazioni non si applicano agli alberi e ai viali già danneggiati da potature drastiche, se sono inclusi in un piano di sostituzione pluriennale approvato dalla Giunta comunale.",135,153,676,694,286,104,87,8,0,38,24,2,0,7,14,3,0,11,25,1,18,0,7,3,22,2,77.03703703703704,56.7037037037037,51.421296296296276,0.5925925925925926,109,86,21,16,92.42551922798157,633,61,90,52,62,0.331,0.9309999999999999,0.5670000000000001,0.445
+basilicata,Regolamento del Verde urbano pubblico e privato,5,Art. 5 DANNEGGIAMENTI,"Sono considerati danneggiamenti delle alberature, sanzionabili ai sensi del successivo articolo 22, tutte le operazioni di capi tozzatura apicale, di potatura non autorizzata o non eseguita a regola e ogni intervento che direttamente o indirettamente possa compromettere l'integrità e il naturale sviluppo delle piante.
+
+I seguenti interventi sono vietati come particolarmente nocivi, qualora eseguiti nelle aree di pertinenza delle alberature di cui al successivo articolo 8:
+- versamento di sostanze fitotossiche (acidi, olii, cloruro di sodio in caso di nevicate, etc.);
+- combustione di sostanze di qualsiasi natura;
+- impermeabilizzazione con pavimentazioni e opere edilizie;
+- affissione di cartelli e simili, mediante chiodi, filo di ferro o materiale non estensibile;
+- ricariche di terreno e altro materiale, tali da comportare l'interramento del colletto;
+- asporto di terreno e scavi di qualsiasi natura;
+- deposito stabile di materiali e utilizzo per ogni genere di attività produttive;
+- impianti di illuminazione che producano calore tale da danneggiare l'alberatura;
+- interramento di reti tecnologiche a distanze minori da quelle di cui al successivo articolo 9;
+- rimozioni o incisioni sull'apparato corticale.
+
+I soggetti pubblici o privati interessati a scavi che interferiscano con le alberature esistenti sono tenuti:
+- a presentare all'Ufficio competente, prima dell'inizio dei lavori, il progetto delle opere da realizzare, con l'indicazione della vegetazione esistente;
+- a segnalare tempestivamente all'Ufficio competente eventuali situazioni di rischio che possano causare danni alla porzione ipogea ed epigea degli alberi.
+
+L'Ufficio competente può esprimere prescrizioni sulle istanze di cui al punto precedente, insieme al titolo abilitativo.","Sono considerati danni agli alberi, e quindi punibili secondo l'articolo 22, tutte le operazioni di taglio della cima, potature non autorizzate o fatte male, e qualsiasi intervento che possa danneggiare o impedire la crescita naturale delle piante.
+
+Questi interventi sono vietati perché particolarmente dannosi, se fatti nelle aree degli alberi indicate nell'articolo 8:
+- versare sostanze tossiche come acidi, oli o sale in caso di neve;
+- bruciare qualsiasi tipo di materiale;
+- coprire il terreno con pavimentazioni o costruzioni;
+- attaccare cartelli usando chiodi, filo di ferro o materiali rigidi;
+- aggiungere terra o altri materiali che coprano la base dell'albero;
+- rimuovere terra o fare scavi di qualsiasi tipo;
+- depositare materiali in modo permanente o usare l'area per attività produttive;
+- installare luci che emettano calore dannoso per gli alberi;
+- interrare reti tecnologiche troppo vicine, come specificato nell'articolo 9;
+- rimuovere o incidere la corteccia degli alberi.
+
+Chiunque, pubblico o privato, voglia fare scavi che possano interferire con gli alberi esistenti deve:
+- presentare all'Ufficio competente, prima di iniziare i lavori, il progetto delle opere, indicando la vegetazione presente;
+- informare subito l'Ufficio competente di eventuali rischi che possano danneggiare le radici o la parte visibile degli alberi.
+
+L'Ufficio competente può dare indicazioni sui progetti presentati, insieme al permesso necessario.",210,252,1196,1238,509,150,125,16,0,63,42,3,0,8,23,6,0,21,28,0,42,0,13,3,38,4,71.42857142857143,54.904761904761905,35.32738095238096,0.638095238095238,183,154,23,26,95.2743649482727,716,89,115,77,69,0.152,0.9940000000000001,0.426,0.469
+basilicata,Regolamento del Verde urbano pubblico e privato,6,Art. 6 NUOVI IMPIANTI E SOSTITUZIONI,"Per la sostituzione e l'impianto di nuovi alberi è prescritto l'uso di materiale vivaistico certificato ed esente da virus, di circonferenza non inferiore, di norma, alle seguenti misure:
+- circonferenza minima cm. 20 per piante di 1a grandezza
+- circonferenza minima cm. 15 per piante di 2a grandezza
+- circonferenza minima cm. 10 per piante di 3a grandezza
+
+La scelta di nuove essenze arbustive deve essere orientata verso elementi vegetali di altezza non inferiore a cm. 60 poste in vaso o in contenitore.
+
+L'elencazione delle principali specie e delle essenze suggerite in ambito comunale, con le rispettive caratteristiche d'impiego, le distanze d'impianto da rispettare e le dimensioni a maturità, è riportata nell'Allegato C.
+
+L'utilizzo in zona urbana di essenze diverse da quelle suggerite nell'Allegato C è subordinato ad una puntuale relazione redatta da tecnico abilitato circa le motivazioni di natura tecnica, ambientale o paesaggistica che giustificano la scelta.
+
+Gli strumenti urbanistici attuativi contengono precise previsioni in ordine alle specie arboree, alle essenze da utilizzare e alla loro localizzazione e quantificazione; l'adozione di tali strumenti necessita del parere in materia di verde pubblico e privato da parte dell'Ufficio competente.","Per sostituire o piantare nuovi alberi, bisogna usare piante certificate e senza virus. Gli alberi devono avere una circonferenza minima, che di solito è:
+
+- almeno 20 cm per alberi di prima grandezza
+- almeno 15 cm per alberi di seconda grandezza
+- almeno 10 cm per alberi di terza grandezza
+
+Quando si scelgono nuovi arbusti, bisogna preferire quelli alti almeno 60 cm e che siano in vaso o contenitore.
+
+Nell'Allegato C trovi l'elenco delle principali specie e arbusti consigliati per il comune, con le loro caratteristiche, le distanze da rispettare quando li pianti e le dimensioni che raggiungono quando crescono.
+
+Se vuoi usare piante diverse da quelle consigliate nell'Allegato C in aree urbane, devi presentare una relazione dettagliata scritta da un tecnico qualificato. Questa relazione deve spiegare le ragioni tecniche, ambientali o paesaggistiche della scelta.
+
+I piani urbanistici devono specificare quali specie di alberi e arbusti usare, dove piantarli e in che quantità. Per adottare questi piani, serve il parere dell'Ufficio competente in materia di verde pubblico e privato.",171,191,901,921,376,114,97,8,0,44,29,4,0,5,18,5,0,21,26,4,20,0,10,5,29,0,66.66666666666666,50.345029239766085,41.70102339181287,0.5789473684210527,146,131,15,16,94.66971158981323,639,76,91,63,70,0.27699999999999997,0.155,0.36,0.026000000000000002
+basilicata,Regolamento del Verde urbano pubblico e privato,7,Art. 7 PROGETTI DI SISTEMAZIONE DEL VERDE,"Le seguenti richieste di interventi edilizi o urbanistici e, in generale, tutte le istanze che comportino innovazioni e modifiche delle aree esterne di pertinenza delle costruzioni, sono corredate da un progetto di sistemazione del verde, redatto da tecnico abilitato in conformità al Regolamento e in base alla modulistica di cui Allegato A:
+- costruzioni o ristrutturazioni di edifici pubblici o privati;
+- progettazione di zone e comparti soggetti a strumento urbanistico attuativo;
+- trasformazioni e modificazioni di giardini o parchi pubblici;
+- urbanizzazioni primarie o secondarie, compresi i progetti di strade e parcheggi;
+- sistemazione aree esterne a edifici esistenti o di progetto.
+
+Il progetto di sistemazione del verde comprende i seguenti elaborati:
+- studio dello stato di fatto, con inquadramento paesaggistico, fotografie, planimetrie, etc.;
+- relazione sul progetto (materiali prescelti, aspetti tecnico-agronomici e ambientali, etc.);
+- elaborati di progetto riportanti la disposizione delle alberature, il relativo ingombro a maturità, i percorsi, l'impianto di illuminazione, il sistema d'irrigazione e drenaggio, le utenze aeree e sotterranee insistenti nell'area di
+intervento, etc.
+
+Nel caso di piani urbanistici e interventi su aree pubbliche, il progetto del verde urbano è integrato dai seguenti elaborati:
+- disciplinare descrittivo degli elementi prestazionali, tecnici ed economici;
+- piano di tutela delle alberature esistenti e piano quinquennale di manutenzione del verde.
+
+Le disposizioni sulla documentazione da produrre ai sensi dei precedenti punti 2 e 3 sono coordinate a quelle del Regolamento Edilizio del comune e della Guida Pratica ad esso allegato.","Se vuoi fare lavori edilizi o urbanistici che cambiano le aree esterne di un edificio, devi presentare un progetto di sistemazione del verde. Questo progetto deve essere fatto da un tecnico qualificato e seguire il Regolamento e i moduli dell'Allegato A. Ecco i casi in cui serve il progetto:
+
+- Costruzione o ristrutturazione di edifici pubblici o privati.
+- Progettazione di aree soggette a piani urbanistici.
+- Modifiche a giardini o parchi pubblici.
+- Creazione di infrastrutture come strade e parcheggi.
+- Sistemazione delle aree esterne di edifici esistenti o nuovi.
+
+Il progetto di sistemazione del verde deve includere:
+
+- Uno studio della situazione attuale con foto, mappe e descrizione del paesaggio.
+- Una relazione sul progetto che spiega i materiali scelti e gli aspetti tecnici e ambientali.
+- Disegni che mostrano dove saranno piantati gli alberi, i percorsi, l'illuminazione, l'irrigazione, il drenaggio e le utenze presenti nell'area.
+
+Per i piani urbanistici e lavori su aree pubbliche, il progetto deve anche includere:
+
+- Una descrizione dettagliata degli aspetti tecnici ed economici.
+- Un piano per proteggere gli alberi esistenti e un piano di manutenzione del verde per cinque anni.
+
+Le regole per la documentazione da presentare sono coordinate con il Regolamento Edilizio del comune e la Guida Pratica allegata.",203,235,1092,1124,453,126,99,16,0,65,22,1,0,3,30,4,0,26,32,3,32,0,16,1,15,7,62.06896551724138,58.85221674876847,48.26323891625614,0.5714285714285714,175,152,24,26,94.13449168205261,690,70,94,62,54,0.156,0.06,0.978,0.113
+basilicata,Regolamento del Verde urbano pubblico e privato,8,Art. 8 AREE DI PERTINENZA DELLE ALBERATURE,"L'area di pertinenza delle alberature è considerata l'area definita dalla circonferenza tracciata sul terreno avente come centro il fusto dell'albero; il suo raggio è in funzione dello sviluppo della chioma e delle radici, secondo il seguente schema:
+- raggio mt. 6,00 per piante di 1a grandezza
+- raggio mt. 4,00 per piante di 2a grandezza
+- raggio mt. 2,00 per piante di 3a grandezza
+
+In caso alberature poste a confine tra diverse proprietà, l'area di pertinenza si intende comunque limitata dal confine della proprietà su cui sorge il fusto.","L'area intorno a un albero è quella delimitata da un cerchio tracciato sul terreno, con il tronco dell'albero al centro. Il raggio di questo cerchio dipende dalla grandezza della chioma e delle radici dell'albero, seguendo queste misure:
+- 6 metri di raggio per alberi di grandezza 1
+- 4 metri di raggio per alberi di grandezza 2
+- 2 metri di raggio per alberi di grandezza 3
+
+Se l'albero si trova al confine tra due proprietà, l'area intorno all'albero è limitata al confine della proprietà dove si trova il tronco.",93,102,417,426,171,54,46,3,0,34,9,7,0,3,11,3,0,0,24,0,9,0,1,1,7,2,58.06451612903226,53.83870967741935,55.48387096774195,0.4946236559139785,74,65,9,9,89.84708786010742,243,40,42,29,24,0.162,0.001,0.946,0.33899999999999997
+basilicata,Regolamento del Verde urbano pubblico e privato,9,Art. 9 DISTANZE DA OSSERVARE,"Le distanze dai confini o fabbricati da osservarsi per l'impianto di nuove alberature, salvo il caso di viali e alberature stradali di cui al successivo articolo 13, sono le seguenti:
+- distanza minima mt. 6,00 per piante di 1a grandezza
+- distanza minima mt. 4,00 per piante di 2a grandezza
+- distanza minima mt. 2,00 per piante di 3a grandezza
+
+In ambito urbano i cavi aerei per le reti elettriche e di telecomunicazione, aventi altezza minima da terra di mt. 5,00 ai sensi dell'articolo 2.1.06 del Decreto Ministeriale 21 marzo 1988, devono garantire una distanza di rispetto dagli elementi arborei non inferiore a cm. 30.
+
+Per la posa in opera e la manutenzione di reti tecnologiche sotterranee devono essere rispettate le distanze di seguito riportate, salvo il caso di effettiva mancanza di spazio, purché gli alberi compromessi dagli scavi siano inseriti in un piano di sostituzione poliennale;
+- distanza minima mt. 4,00 per piante di 1a grandezza
+- distanza minima mt. 3,00 per piante di 2a grandezza
+- distanza minima mt. 2,00 per piante di 3a grandezza
+
+La distanza dalle linee ferroviarie di alberi, arbusti e siepi, in conformità agli articoli 52 e 55 del DPR 11 luglio 1980 n° 753 e all'articolo 4 della Legge 12 novembre 1968 n° 1202, non può essere inferiore alle seguenti misure:
+- altezza a maturità + mt. 2,00 per alberature > mt. 4,00
+- distanza pari a mt. 6,00 per alberi/arbusti < mt. 4,00
+- distanza pari a mt. 6,00 in caso di siepi > mt. 1,50
+- distanza pari a mt. 5,00 in caso di siepi < mt. 1,50
+
+Nel caso in cui il tracciato della ferrovia si trovi in trincea o rilevato, le misure di cui al punto precedente sono aumentate in maniera da garantire una distanza minima di mt. 2,00 dal ciglio dello sterro o dal piede del rilevato.
+
+Per le altre zone di rispetto non indicate dal presente articolo si applicano, ai fini delle distanze da osservare, le disposizioni legislative e regolamentari vigenti.","Quando pianti nuovi alberi, devi rispettare le seguenti distanze dai confini o dagli edifici, a meno che non si tratti di viali o alberature stradali (vedi articolo 13):
+
+- Per alberi di grandezza 1: almeno 6 metri
+- Per alberi di grandezza 2: almeno 4 metri
+- Per alberi di grandezza 3: almeno 2 metri
+
+In città, i cavi aerei per l'elettricità e le telecomunicazioni devono essere ad almeno 5 metri da terra (come stabilito dall'articolo 2.1.06 del Decreto Ministeriale del 21 marzo 1988) e devono mantenere una distanza di almeno 30 centimetri dagli alberi.
+
+Quando installi o mantieni reti sotterranee, devi rispettare queste distanze, a meno che non ci sia davvero poco spazio. In tal caso, gli alberi danneggiati dagli scavi devono essere inclusi in un piano di sostituzione a lungo termine:
+
+- Per alberi di grandezza 1: almeno 4 metri
+- Per alberi di grandezza 2: almeno 3 metri
+- Per alberi di grandezza 3: almeno 2 metri
+
+Gli alberi, arbusti e siepi devono mantenere le seguenti distanze dalle linee ferroviarie, secondo gli articoli 52 e 55 del DPR 11 luglio 1980 n° 753 e l'articolo 4 della Legge 12 novembre 1968 n° 1202:
+
+- Per alberi che superano i 4 metri di altezza: altezza a maturità più 2 metri
+- Per alberi/arbusti sotto i 4 metri: almeno 6 metri
+- Per siepi sopra 1,5 metri: almeno 6 metri
+- Per siepi sotto 1,5 metri: almeno 5 metri
+
+Se la ferrovia è in trincea o su un rilevato, le distanze sopra indicate devono essere aumentate per garantire almeno 2 metri dal bordo dello scavo o dalla base del rilevato.
+
+Per altre aree non specificate in questo articolo, si applicano le leggi e i regolamenti vigenti sulle distanze da rispettare.",285,326,1318,1360,576,143,120,18,0,89,30,36,0,20,22,4,0,11,55,1,41,0,11,6,24,6,50.175438596491226,61.70175438596491,58.798245614035075,0.5263157894736842,217,191,20,34,95.3790009021759,864,106,133,81,71,0.24,0.27399999999999997,0.772,0.858
+basilicata,Regolamento del Verde urbano pubblico e privato,10,Art. 10 NORME DI NATURA EDILIZIA,"Nella progettazione e nella fase costruttiva di muri di sostegno in cemento armato di altezza superiore a mt. 1,50 da realizzare a cura dell'Amministrazione comunale e di altri soggetti pubblici o privati è fatto obbligo di predisporre accorgimenti e soluzioni tecniche che consentano la ricopertura totale o parziale mediante l'impianto e lo sviluppo di essenze rampicanti o ricadenti, ovvero mediante siepi arbustive.
+
+Negli interventi di ristrutturazione edilizia con modificazioni dell'area esterna ai fabbricati è necessario recuperare la superficie a verde, in toto o in parte, utilizzando l'area scoperta disponibile; qualora le condizioni dello stato dei luoghi non lo consentano, la superficie a verde è integrata attraverso la previsione di giardini pensili e/o di verde verticale mediante l'uso di piante rampicanti o ricadenti.
+
+Le aree di pertinenza della alberature, di cui al precedente articolo 8, possono essere interessate dalla posa di pavimentazioni superficiali permeabili, purché sia garantito il mantenimento di una sufficiente superficie a terreno nudo circostante il fusto, pacciamata, inerbita o impiantata con specie vegetali tappezzanti, non inferiore alle misure seguenti:
+- superficie di m2 10,00 per piante di 1a grandezza
+- superficie di m2 6,00 per piante di 2a grandezza
+- superficie di m2 4,00 per piante di 3a grandezza
+
+In caso di demolizione e ricostruzione di edifici, strutture edilizie e zone pavimentate che, in toto o in parte, interferiscano con le aree di pertinenza delle alberature, la nuova costruzione deve garantirne, per quanto possibile, il rispetto.
+
+Gli interventi di posa in opera di pavimentazioni esterne non devono comportare sottofondazioni e scavi che alterino lo strato superficiale del terreno per una quota superiore a cm. 15 dall'originario piano di campagna.
+
+Lungo le linee di confine tra lotti limitrofi e tra zone di diversa destinazione d'uso devono essere previste, ovunque possibile, schermature di verde naturale con eventuale rete metallica interposta.
+
+Le norme del presente articolo sono applicabili purché non contrastino con altre disposizioni legislative e regolamentari vigenti.","Quando si progettano e costruiscono muri di sostegno in cemento armato alti più di 1,50 metri, l'Amministrazione comunale e altri enti pubblici o privati devono prevedere soluzioni per coprirli con piante rampicanti o siepi.
+
+Durante la ristrutturazione di edifici, se si modifica l'area esterna, bisogna recuperare il verde usando lo spazio disponibile. Se non è possibile, si devono creare giardini pensili o usare piante rampicanti per il verde verticale.
+
+Le aree intorno agli alberi possono avere pavimentazioni permeabili, ma bisogna lasciare abbastanza terreno nudo intorno al tronco. Le misure minime sono:
+- 10 metri quadrati per alberi grandi
+- 6 metri quadrati per alberi medi
+- 4 metri quadrati per alberi piccoli
+
+Se si demoliscono e ricostruiscono edifici o pavimentazioni che interferiscono con le aree degli alberi, le nuove costruzioni devono rispettare queste aree il più possibile.
+
+Quando si posano pavimentazioni esterne, non si devono fare scavi più profondi di 15 cm rispetto al livello originale del terreno.
+
+Lungo i confini tra lotti e tra zone con usi diversi, bisogna prevedere, se possibile, barriere di verde naturale con una rete metallica.
+
+Queste regole si applicano solo se non contrastano con altre leggi o regolamenti esistenti.",194,216,1042,1064,439,126,112,9,0,50,31,5,0,12,18,8,0,32,22,0,22,0,10,6,31,0,64.94845360824742,49.20618556701031,37.35681557846506,0.6443298969072165,171,152,16,17,93.2241678237915,1066,87,165,77,110,0.345,0.987,0.8240000000000001,0.622
+basilicata,Regolamento del Verde urbano pubblico e privato,11,Art. 11 PARAMETRI URBANISTICI,"Qualora ciò non contrasti con le disposizioni del Regolamento Edilizio e con le previsioni degli strumenti urbanistici vigenti, nei comparti e nei lotti di nuovo insediamento residenziale e produttivo deve essere garantito uno standard di permeabilità pari al 30% della superficie interessata, di cui almeno la metà destinata al verde permeabile in profondità.
+
+Sulle superfici destinate a verde devono essere messi a dimora alberi ed arbusti in quantità tali da garantire, una volta raggiunta la maturità vegetativa, le coperture del suolo di seguito riportate, da calcolare secondo le superfici medie indicate nell'Allegato C:
+- nelle zone residenziali/terziarie/direzionali: 30% di copertura arborea e 10% di copertura arbustiva
+- nelle zone produttive/industriali: 40% di copertura arborea e 20% di copertura arbustiva
+
+Qualora per documentata impossibilità non sia possibile assicurare le percentuali di copertura di suolo di cui al punto precedente, gli interessati sono tenuti a corrispondere al Comune un indennizzo per mancata ricopertura pari a 25,00/m2.
+
+Nelle zone esterne al perimetro urbano e lungo i confini fra nuovi insediamenti urbanistici e zone agricole, è consentito solo l'utilizzo di specie comprese nell'Allegato C, salvo motivate scelte di composizione architettonico-paesaggistica che comunque non riguardino più del 20% delle alberature da mettere a dimora.
+
+Sono consentite deroghe alle norme di cui al punto precedente solo in caso di restauro di Parchi e Giardini storici, Orti botanici e impianti arborei destinati alla ricerca universitaria.
+
+Le aree di pertinenza delle alberature di cui al precedente articolo 8, fermo restando il computo ai fini edificatori secondo i parametri urbanistici ed edilizi previsti dagli strumenti urbanistici vigenti, sono da considerarsi non edificabili.","Se non ci sono conflitti con il Regolamento Edilizio e con i piani urbanistici attuali, nei nuovi quartieri residenziali e produttivi bisogna garantire che almeno il 30% del terreno sia permeabile. Di questo 30%, almeno la metà deve essere destinata a verde profondo.
+
+Nelle aree verdi bisogna piantare alberi e arbusti in modo che, quando saranno cresciuti, coprano il suolo come segue (calcolato secondo le superfici medie dell'Allegato C):
+- Nelle zone residenziali, terziarie e direzionali: 30% di copertura con alberi e 10% con arbusti.
+- Nelle zone produttive e industriali: 40% di copertura con alberi e 20% con arbusti.
+
+Se non è possibile raggiungere queste percentuali, bisogna pagare al Comune un indennizzo di 25,00 euro per metro quadrato di mancata copertura.
+
+Nelle aree fuori dal perimetro urbano e lungo i confini tra nuovi insediamenti e zone agricole, si possono usare solo le specie elencate nell'Allegato C, a meno che non ci siano motivi architettonici o paesaggistici per scegliere diversamente, ma non più del 20% degli alberi può essere diverso.
+
+Si possono fare eccezioni a queste regole solo per il restauro di Parchi e Giardini storici, Orti botanici e impianti arborei per la ricerca universitaria.
+
+Le aree intorno agli alberi, come indicato nell'articolo 8, non possono essere costruite, anche se vengono considerate nel calcolo per la costruzione secondo i parametri urbanistici ed edilizi attuali.",225,259,1167,1202,498,147,123,11,0,46,33,9,7,14,19,4,0,30,40,8,27,0,14,8,25,8,65.33333333333333,51.8,41.67878787878787,0.5466666666666666,173,149,24,24,95.6817626953125,777,71,110,64,72,0.852,0.19,0.9079999999999999,0.995
+basilicata,Regolamento del Verde urbano pubblico e privato,12,Art. 12 VERDE PER PARCHEGGI,"La sistemazione a verde in aree di parcheggio è finalizzata alla riduzione dell'impatto ambientale ed all'ottimizzazione del rapporto tra funzionalità ed inserimento paesaggistico.
+
+Nella realizzazione di parcheggi al servizio di strutture residenziali, terziarie, commerciali e ricettive, la sistemazione a verde deve interessare una superficie non inferiore al 25% dell'area complessiva e deve essere caratterizzata da:
+- alberature non resinose;
+- distribuzione che garantisca il razionale ombreggiamento;
+- copertura suolo con arbusti ed essenze tappezzanti;
+- eventuali pavimentazioni permeabili alle acque meteoriche.
+
+Per ogni albero impiantato o da impiantare in aree di parcheggio è necessario garantire una superficie a terreno naturale, non inferiore alle misure di seguito riportate:
+- m2 9,00 per piante di 1a grandezza
+- m2 4,50 per piante di 2a grandezza
+- m2 3,00 per piante di 3a grandezza
+
+In caso di aree a parcheggio ricavate in spazi angusti e densamente urbanizzati, ove si dimostri l'impossibilità di garantire lo standard di cui al precedente punto 2, è necessario prevedere sistemi di miglioramento ambientale mediante sistemazioni a verde pensile e rivestimenti di tipo rampicante o ricadente.","La sistemazione a verde nelle aree di parcheggio serve a ridurre l'impatto ambientale e a migliorare l'integrazione con il paesaggio.
+
+Quando si costruiscono parcheggi per case, uffici, negozi e hotel, almeno il 25% dell'area totale deve essere dedicato al verde. Questo verde deve includere:
+- alberi che non producono resina;
+- una disposizione che assicuri un'ombra efficace;
+- copertura del suolo con arbusti e piante tappezzanti;
+- pavimentazioni che permettano all'acqua piovana di filtrare.
+
+Per ogni albero piantato o da piantare nei parcheggi, bisogna garantire una superficie di terreno naturale di almeno:
+- 9 metri quadrati per alberi di grande dimensione;
+- 4,5 metri quadrati per alberi di media dimensione;
+- 3 metri quadrati per alberi di piccola dimensione.
+
+Se i parcheggi si trovano in spazi stretti e molto urbanizzati, e non è possibile rispettare le misure sopra indicate, bisogna usare soluzioni come giardini pensili e piante rampicanti o ricadenti per migliorare l'ambiente.",152,178,818,844,344,107,93,12,0,43,25,4,1,6,13,5,0,19,27,0,25,0,8,2,22,3,70.39473684210526,58.868421052631575,46.228070175438596,0.6118421052631579,133,113,19,19,95.10399103164673,585,72,81,63,47,0.114,0.972,0.873,0.972
+toscana,Regolamento per il conseguimento dell’attestato di idoneità professionale all’esercizio di autotrasportatore di merci per conto terzi e di autotrasporto di persone su strada,1,Art. 1 (Oggetto e finalità),"La Città Metropolitana disciplina con il presente Regolamento i criteri e le modalità per rilascio dell'autorizzazione per l'esercizio dei servizi autorizzati di trasporto pubblico, esercitata senza oneri finanziari a carico della Pubblica Amministrazione, di sua competenza ai sensi dell'art. 14 L.R. 42/98, al fine di:
+- tutelare la concorrenza tra le imprese e la trasparenza sul mercato;
+- tutelare il diritto alla salute ed alla salubrità ambientale;
+- garantire la sicurezza dei viaggiatori;
+- stabilire le condizioni idonee al soddisfacimento della domanda di mobilità, nell'ambito dei servizi automobilistici di competenza provinciale non gravati dall'imposizione di obblighi di servizio.
+
+La materia è disciplinata dalle seguenti fonti normative:
+- Legge Regionale 31 luglio 1998, n.42 ""Norme per il trasporto pubblico locale"" e ss.mm. e ii.;
+- Decreto Legislativo 19 novembre 1997, n. 422 ""Conferimento alle regioni ed agli enti locali di funzioni e compiti in materia di trasporto pubblico locale, a norma dell'articolo 4, comma 4, della legge 15 marzo 1997, n. 59"";
+- D.P.R. 11 luglio 1980, n. 753 ""Nuove norme in materia di polizia, sicurezza e regolarità dell'esercizio delle ferrovie e di altri servizi di trasporto"".
+- Reg.(CE) 21 ottobre 2009, n. 1071/2009 ""Regolamento del parlamento europeo e del Consiglio che stabilisce norme comuni sulle condizioni da rispettare per esercitare l'attività di trasportatore su strada e abroga la direttiva 96/26/CE del Consiglio""
+- Decreto Ministero delle Infrastrutture e dei trasporti 25 novembre 2011 contenente Disposizioni tecniche di prima applicazione del Regolamento (CE) n. 1071/2009","La Città Metropolitana ha creato questo Regolamento per spiegare come ottenere l'autorizzazione per gestire servizi di trasporto pubblico. Questi servizi non devono costare nulla alla Pubblica Amministrazione e sono di competenza della Città Metropolitana secondo l'articolo 14 della Legge Regionale 42/98. Gli obiettivi del Regolamento sono:
+
+- Assicurare una concorrenza leale tra le imprese e trasparenza nel mercato.
+- Proteggere la salute delle persone e l'ambiente.
+- Garantire la sicurezza dei viaggiatori.
+- Soddisfare la domanda di mobilità per i servizi di trasporto su strada di competenza provinciale, senza obblighi di servizio.
+
+Le leggi che regolano questa materia sono:
+
+- La Legge Regionale del 31 luglio 1998, n. 42, che riguarda il trasporto pubblico locale.
+- Il Decreto Legislativo del 19 novembre 1997, n. 422, che assegna funzioni e compiti sul trasporto pubblico locale a regioni ed enti locali.
+- Il D.P.R. dell'11 luglio 1980, n. 753, che stabilisce nuove norme per la sicurezza e la regolarità dei trasporti.
+- Il Regolamento (CE) del 21 ottobre 2009, n. 1071/2009, che stabilisce le condizioni per essere un trasportatore su strada.
+- Il Decreto del Ministero delle Infrastrutture e dei Trasporti del 25 novembre 2011, che contiene le prime disposizioni tecniche per applicare il Regolamento (CE) n. 1071/2009.",201,237,1094,1130,444,128,109,13,0,60,22,17,0,1,27,7,0,16,35,8,36,0,7,1,22,0,63.681592039801,53.975124378109456,46.95637198622273,0.4925373134328358,144,130,14,14,95.7575261592865,689,45,81,37,47,0.294,0.276,0.882,0.249
+toscana,Regolamento per il conseguimento dell’attestato di idoneità professionale all’esercizio di autotrasportatore di merci per conto terzi e di autotrasporto di persone su strada,2,Art. 3 (Condizioni per l'esercizio dell'attività),"I servizi di cui al precedente art. 2, sono soggetti ad autorizzazione della durata di anni tre, rilasciata dalla Direzione competente per materia della Città Metropolitana di Firenze, secondo le modalità ed i criteri di cui ai successivi artt. 4 e 5. L'autorizzazione può avere una durata inferiore a quella sopra indicata, in aderenza ad eventuali prescrizioni e/o limitazioni imposte dai Comuni territorialmente competenti. Qualsiasi vettore per conto terzi purché in possesso dei requisiti richiesti può essere autorizzato ad effettuare i servizi disciplinati dal presente regolamento, senza discriminazione motivata dalla sua nazionalità o dal luogo di stabilimento. La validità triennale dell'autorizzazione decorre dalla data di rilascio o dalla data indicata nell'atto autorizzatorio e può essere rinnovata.
+
+Per ottenere le autorizzazioni di cui ai precedenti commi l'impresa richiedente, iscritta al registro delle imprese di cui all'art. 2188 del codice civile ed in possesso dei requisiti di onorabilità, idoneità finanziaria e professionale previsti dalla normativa vigente per l'accesso alla professione di trasportatore di viaggiatori su strada, deve soddisfare le seguenti condizioni:
+- essere autorizzata, ai sensi dell'art. 10 Regolamento CE n. 1071/2009, all'esercizio della professione di trasportatore su strada di persone ed essere iscritta la Registro Elettronico Nazionale di cui all'art. 16 del medesimo Regolamento CE e all'art. 11 del Decreto Dirigenziale del Capo Dipartimento per i Trasporti, la Navigazione ed i Sistemi informativi e statistici del 25/11/2011 n. 291;
+- applicare nei confronti degli addetti, in materia di rapporto di lavoro, le norme di diritto comune e le norme del contratto collettivo nazionale di lavoro di settore;
+- rispettare le disposizioni di cui all'art.1, comma 5, del Regolamento (CEE) n.1191 del 26 giugno 1969, così come sostituito dal Regolamento (CEE) n.1893/91 del 20 giugno 1991, in materia di separazione contabile, nell'ipotesi in cui la medesima gestisca anche servizi di trasporto di persone soggetti ad obblighi di servizio pubblico;
+- disporre di personale, impianti e strutture in misura idonea ad assicurare il regolare esercizio del servizio;
+- disporre di autobus conformi alla classificazione di cui al Decreto del Ministro delle Infrastrutture e dei Trasporti 23 dicembre 2003, non acquistati con sovvenzioni pubbliche escluse quelle di cui abbia beneficiato la totalità delle imprese. Ai fini del rispetto dei principi di cui all'articolo 1 del presente Regolamento, di tutela del diritto alla salute, alla salubrità ambientale ed alla sicurezza dei viaggiatori, è facoltà della Città Metropolitana prescrivere, di volta in volta, l'impiego di veicoli a basso impatto ambientale e specificarne le relative caratteristiche tecniche;
+- fornire l'elenco delle fermate e dei percorsi da depositare agli atti della Direzione competente per materia della Città Metropolitana di Firenze;
+- ottenere, da parte dei competenti organi, il nulla osta sul percorso e sulle aree di fermata del servizio proposto ai sensi della normativa in materia di sicurezza;
+- ottenere dal Comune/i sul cui territorio si intende svolgere il servizio di trasporto parere favorevole vincolante sull'idoneità del percorso proposto e sull'ubicazione delle relative fermate;
+- proporre un servizio autorizzato che non comprometta gravemente la vitalità di un servizio ferroviario.
+
+L'autorizzazione viene negata con provvedimento motivato quando l'impresa richiedente o il servizio proposto non soddisfino le condizioni previste dal presente Regolamento o non siano conformi alle leggi.
+
+Il fatto che un vettore pratichi prezzi inferiori a quelli proposti da altri vettori richiedenti, oppure che il collegamento in questione sia già effettuato da altri vettori nel medesimo regime di autorizzazione, non può di per sé costituire motivo per respingere la domanda.
+
+L'autorizzazione può essere negata ove si renda necessario limitare il numero delle autorizzazioni da rilasciare per effetto di provvedimenti adottati in materia di regolazione della circolazione stradale, nonché per ragioni di salvaguardia ambientale, dalle Amministrazioni competenti per territorio.
+
+L'Amministrazione metropolitana può proporre al richiedente integrazioni a modifica del programma di esercizio e degli orari relativamente al servizio per il quale viene richiesta l'autorizzazione, al fine di migliorare la qualità del servizio reso o di una più efficace integrazione con i servizi programmati, sempre nel rispetto della non sovrapposizione o interferenza.","I servizi descritti nell'articolo 2 richiedono un'autorizzazione che dura tre anni. Questa autorizzazione è concessa dalla Direzione competente della Città Metropolitana di Firenze, seguendo le regole degli articoli 4 e 5. L'autorizzazione può durare meno di tre anni se i Comuni coinvolti lo richiedono. Qualsiasi azienda di trasporto che soddisfa i requisiti può ottenere l'autorizzazione, indipendentemente dalla nazionalità o dal luogo in cui è stabilita. L'autorizzazione triennale inizia dalla data di rilascio o da quella indicata nel documento e può essere rinnovata.
+
+Per ottenere l'autorizzazione, l'azienda richiedente deve essere iscritta al registro delle imprese e avere i requisiti di onorabilità, idoneità finanziaria e professionale richiesti dalla legge per i trasportatori su strada. Inoltre, deve:
+- Essere autorizzata a esercitare la professione di trasportatore su strada di persone e iscritta al Registro Elettronico Nazionale.
+- Applicare le norme di lavoro comuni e il contratto collettivo nazionale di lavoro del settore.
+- Rispettare le regole sulla separazione contabile se gestisce anche servizi di trasporto pubblico.
+- Avere personale, impianti e strutture adeguati per garantire il servizio.
+- Usare autobus conformi alle norme, non acquistati con sovvenzioni pubbliche, tranne quelle concesse a tutte le imprese. La Città Metropolitana può richiedere l'uso di veicoli a basso impatto ambientale.
+- Fornire l'elenco delle fermate e dei percorsi alla Direzione competente.
+- Ottenere l'approvazione per il percorso e le fermate secondo le norme di sicurezza.
+- Ottenere il parere favorevole del Comune per il percorso e le fermate.
+- Proporre un servizio che non danneggi gravemente un servizio ferroviario esistente.
+
+L'autorizzazione viene negata se l'azienda o il servizio non rispettano le condizioni del Regolamento o le leggi. Prezzi più bassi o la presenza di altri servizi simili non sono motivi per rifiutare la domanda.
+
+L'autorizzazione può essere negata se è necessario limitare il numero di autorizzazioni per motivi di traffico o ambientali, decisi dalle autorità competenti.
+
+L'Amministrazione metropolitana può chiedere modifiche al programma di esercizio e agli orari per migliorare il servizio o integrarlo meglio con altri servizi, evitando sovrapposizioni.",339,379,1930,1970,813,201,163,21,0,95,61,5,0,10,44,8,0,31,58,5,40,0,18,4,44,17,59.29203539823009,50.65191740412979,33.97218710493047,0.5811209439528023,267,242,24,38,93.69028210639954,2316,71,267,55,179,0.39899999999999997,0.22,0.075,0.09300000000000001
+toscana,Regolamento per il conseguimento dell’attestato di idoneità professionale all’esercizio di autotrasportatore di merci per conto terzi e di autotrasporto di persone su strada,3,Art. 6 (Obblighi delle imprese),"L'impresa, per tutto il periodo di validità dell'autorizzazione, deve rispettare:
+- le condizioni previste dall'art. 3, comma 2, dalla lettera a) alla lettera g);
+- le prescrizioni contenute nell'autorizzazione;
+- le prescrizioni relative alla sicurezza del percorso e delle fermate, nonché quelle relative alla circolazione stradale stabilite dalle competenti autorità.
+
+L'impresa è tenuta inoltre a:
+- comunicare al competente Ufficio della Città Metropolitana di Firenze l'eventuale intenzione di sospendere o cessare l'esercizio del servizio autorizzato. Tale comunicazione è inoltrata almeno trenta giorni prima della sospensione o cessazione del servizio e resa nota all'utenza per lo stesso periodo tramite appositi avvisi anche esposti all'interno degli autobus utilizzati. Nel caso l'autorizzazione in originale dovrà essere consegnata alla Città Metropolitana;
+- tenere a bordo dell'autobus adibito a servizio autorizzato la copia dell'autorizzazione certificata conforme dalla Città Metropolitana di Firenze;
+- adibire al servizio gli autobus in propria disponibilità aventi le caratteristiche di cui all'art.3, comma 2, lettera e), dichiarati in sede di richiesta di autorizzazione. In caso di guasto, è autorizzato con apposito atto, l'utilizzo temporaneo di mezzi di altre ditte, previa motivata richiesta all'ufficio competente della Città Metropolitana e solo fino a successiva comunicazione del titolare dell'autorizzazione attestante la riparazione del proprio mezzo ed il ripristino dello stesso per il servizio di linea autorizzata.
+- adottare la Carta della mobilità, sulla base di quanto previsto dal D.P.C.M. in data 30 dicembre 1998, pubblicato sulla G.U. n.26 del 2 febbraio 1999, e rendere noto l'itinerario sul quale è effettuato il servizio, le fermate, gli orari, i prezzi applicati e le altre condizioni di esercizio, in modo da garantire trasparenza dell'informazione ed agevole accesso agli utenti interessati;
+- rilasciare ai viaggiatori trasportati un titolo di viaggio nel quale debbono necessariamente figurare: la denominazione dell'impresa emittente, la località di partenza e di destinazione, il periodo di validità e la tariffa, nonché tutti gli elementi previsti dalla normativa fiscale;
+- garantire adeguate condizioni igieniche dei mezzi e dei locali funzionali al servizio;
+- rispettare il programma di esercizio autorizzato;
+- fornire alla Città Metropolitana di Firenze i dati richiesti per lo svolgimento dell'attività di monitoraggio e controllo di cui all'art.7;
+- attivare l'esercizio del servizio entro novanta (90) giorni dalla data di inizio, se indicata nell'autorizzazione, o dalla data di rilascio della stessa. Il periodo necessario all'attivazione del servizio può essere esteso fino ad un massimo di 180 giorni dal rilascio dell'autorizzazione nel caso di motivata richiesta dell'impresa;
+- applicare i titoli e le tariffe indicate nella domanda di autorizzazione e comunicare alla Città Metropolitana di Firenze ogni variazione delle stesse. La comunicazione è inoltrata almeno venti giorni prima dell'applicazione e resa nota all'utenza per lo stesso periodo tramite appositi avvisi anche esposti all'interno degli autobus utilizzati;
+- comunicare tempestivamente alla Direzione competente della Città Metropolitana di Firenze le variazioni di percorso e di fermata derivanti da casi di forza maggiore, nonché attenersi alle indicazioni fornite dal sopra citato Ufficio in materia di itinerari provvisori conseguenti ad eventuali interruzioni stradali derivanti da lavori, chiusure temporanee e simili;
+- attenersi alle modifiche che relativamente alle fermate e ai percorsi autorizzati l'Amministrazione metropolitana potrà disporre, su richiesta degli enti competenti per territorio, per sopravvenute esigenze di viabilità e mobilità cittadina, (cantieri, modifiche alla circolazione, pedonalizzazioni, ecc), senza alcun diritto al risarcimento di eventuali danni.
+
+È consentito l'utilizzo dei mezzi titolari impiegati nella linea autorizzata in un servizio diverso, mediante il rilascio di apposita autorizzazione alla distrazione. L'Amministrazione valuta la motivazione della richiesta dell'operatore e verifica che la distrazione non comprometta il regolare esercizio del servizio autorizzato.","L'impresa deve rispettare, per tutto il tempo in cui l'autorizzazione è valida, le seguenti regole:
+
+- Seguire le condizioni dell'articolo 3, comma 2, dalla lettera a) alla lettera g).
+- Rispettare le prescrizioni contenute nell'autorizzazione.
+- Seguire le regole di sicurezza per il percorso e le fermate, e quelle per la circolazione stradale stabilite dalle autorità competenti.
+
+Inoltre, l'impresa deve:
+
+- Informare l'Ufficio competente della Città Metropolitana di Firenze se intende sospendere o cessare il servizio autorizzato. Questa comunicazione deve avvenire almeno trenta giorni prima e deve essere resa nota agli utenti per lo stesso periodo tramite avvisi, anche sugli autobus. Se l'autorizzazione originale è in possesso dell'impresa, deve essere restituita alla Città Metropolitana.
+- Tenere a bordo dell'autobus una copia dell'autorizzazione certificata dalla Città Metropolitana di Firenze.
+- Usare per il servizio gli autobus dichiarati nella richiesta di autorizzazione, che rispettano le caratteristiche dell'articolo 3, comma 2, lettera e). In caso di guasto, l'impresa può usare temporaneamente mezzi di altre ditte, previa richiesta motivata all'ufficio competente, fino a quando il proprio mezzo non è riparato.
+- Adottare la Carta della mobilità secondo il D.P.C.M. del 30 dicembre 1998 e informare gli utenti su itinerario, fermate, orari, prezzi e altre condizioni del servizio.
+- Rilasciare ai viaggiatori un biglietto che indichi il nome dell'impresa, la località di partenza e destinazione, il periodo di validità, la tariffa e gli elementi richiesti dalla normativa fiscale.
+- Garantire condizioni igieniche adeguate dei mezzi e dei locali usati per il servizio.
+- Rispettare il programma di esercizio autorizzato.
+- Fornire alla Città Metropolitana di Firenze i dati richiesti per monitoraggio e controllo, come indicato nell'articolo 7.
+- Iniziare il servizio entro 90 giorni dalla data di inizio indicata nell'autorizzazione o dalla data di rilascio. Questo periodo può essere esteso fino a 180 giorni con una richiesta motivata.
+- Applicare i titoli e le tariffe indicate nella domanda di autorizzazione e comunicare ogni variazione alla Città Metropolitana di Firenze almeno venti giorni prima, informando gli utenti per lo stesso periodo tramite avvisi sugli autobus.
+- Comunicare subito alla Direzione competente della Città Metropolitana di Firenze le variazioni di percorso e fermata dovute a forza maggiore e seguire le indicazioni per itinerari provvisori in caso di interruzioni stradali.
+- Seguire le modifiche ai percorsi e fermate autorizzate che l'Amministrazione metropolitana può disporre per esigenze di viabilità e mobilità cittadina, senza diritto a risarcimento per eventuali danni.
+
+È possibile usare i mezzi della linea autorizzata per un servizio diverso, con un'autorizzazione specifica. L'Amministrazione valuta la richiesta e verifica che non comprometta il servizio autorizzato.",431,496,2446,2511,1034,222,186,22,0,128,62,11,0,12,54,6,0,39,83,13,65,0,19,4,51,11,51.508120649651964,47.561484918793504,30.469415735076982,0.5591647331786543,325,281,43,44,97.42289781570435,1702,58,163,41,112,0.642,0.516,0.708,0.6940000000000001
+toscana,Regolamento per il conseguimento dell’attestato di idoneità professionale all’esercizio di autotrasportatore di merci per conto terzi e di autotrasporto di persone su strada,4,Art. 7 (Attività di controllo sull'attività e diffida),"La Città Metropolitana di Firenze dispone controlli e verifiche periodiche sulla regolarità e qualità del servizio, sulla sussistenza delle condizioni di cui all'art. 3 e sul rispetto, da parte delle imprese autorizzate, degli obblighi di cui all'art.6, al fine di assicurare la leale e corretta concorrenza tra le imprese esercenti i servizi commerciali autorizzati, nonché il rispetto delle disposizioni contenute nel presente regolamento. L'Amministrazione, nello svolgimento della suddetta attività di controllo e ispettiva, redige apposito verbale a cura dei funzionari incaricati in cui sono riportate le irregolarità riscontrate nell'erogazione e nello svolgimento del servizio di trasporto con riferimento anche all'obbligo di osservanza delle prescrizioni imposte agli operatori.
+
+Gli accertamenti delle irregolarità saranno valutati dall'Amministrazione al fine dell'applicazione della procedura e delle sanzioni di cui al presente Regolamento.
+
+Le irregolarità nell'espletamento del servizio e il mancato rispetto delle prescrizioni impartite dall'amministrazione, rilevate con le modalità di cui ai precedenti commi o d'ufficio, saranno oggetto di apposita comunicazione e contestuale richiesta di giustificazioni che dovranno essere inviate entro 15 giorni dal ricevimento della comunicazione.
+
+Qualora le giustificazioni non siano ritenute sufficientemente motivate ovvero non siano pervenute nei termini di cui al comma precedente, l'Amministrazione provvederà ad inviare formale diffida all'operatore che dovrà provvedere entro un termine indicato comunque non inferiore a 30 giorni dal ricevimento della comunicazione.
+
+In casi di necessità ed urgenza l'Amministrazione potrà comunicare immediatamente la diffida ad adempiere in assenza di preventiva comunicazione di richiesta di chiarimenti di cui ai commi precedenti.
+
+La diffida ad adempiere potrà essere inoltrata per il seguente, non esaustivo, elenco di motivi:
+- accertate violazioni al vigente Codice della Strada e al Regolamento di esecuzione e di attuazione del Codice stesso;
+- sospensione o interruzione del servizio non riconducibile a cause di forza maggiore;
+- mancato rispetto delle prescrizioni impartite con l'atto autorizzatorio;
+- inadeguatezza della qualità del servizio offerto anche in termini di affidabilità e rispetto degli standard e caratteristiche del servizio autorizzato;
+- in ogni altro caso che possa interferire con il regolare esercizio della linea autorizzata o che comporti il non rispetto delle norme vigenti in materia di servizi autorizzati di trasporto pubblico di persone.","La Città Metropolitana di Firenze effettua controlli regolari per verificare la qualità e la regolarità del servizio di trasporto. Questi controlli servono a garantire che le imprese rispettino le regole e che ci sia una concorrenza leale tra le aziende autorizzate. Durante i controlli, i funzionari incaricati scrivono un verbale in cui segnalano eventuali problemi o irregolarità nel servizio.
+
+Se vengono trovate irregolarità, l'Amministrazione le valuta per decidere se applicare sanzioni, come previsto dal regolamento. Le aziende che non rispettano le regole riceveranno una comunicazione con la richiesta di spiegazioni, che devono inviare entro 15 giorni.
+
+Se le spiegazioni non sono sufficienti o non arrivano in tempo, l'Amministrazione invierà una diffida formale all'azienda, che dovrà risolvere i problemi entro un termine di almeno 30 giorni.
+
+In situazioni urgenti, l'Amministrazione può inviare subito una diffida senza chiedere prima spiegazioni.
+
+Le diffide possono essere inviate per vari motivi, tra cui:
+- violazioni del Codice della Strada;
+- sospensione o interruzione del servizio senza giustificazioni valide;
+- mancato rispetto delle condizioni dell'autorizzazione;
+- scarsa qualità del servizio, in termini di affidabilità e standard;
+- qualsiasi altra situazione che interferisca con il servizio autorizzato o violi le norme sui trasporti pubblici.",197,224,1150,1177,477,133,108,13,0,59,31,2,0,6,28,8,0,15,33,3,27,0,7,5,26,5,67.51269035532995,50.421319796954315,33.460367044123394,0.5634517766497462,164,150,14,14,94.71492171287537,1351,68,161,63,107,0.322,0.6920000000000001,0.638,0.7829999999999999
+toscana,Regolamento per il conseguimento dell’attestato di idoneità professionale all’esercizio di autotrasportatore di merci per conto terzi e di autotrasporto di persone su strada,5,"Art. 8 (Sanzioni pecuniarie, sospensione e revoca dell'autorizzazione)","La variazione del percorso e delle fermate previste nell'autorizzazione, salvo i casi di forza maggiore, comporta l'applicazione della sanzione amministrativa pecuniaria prevista dall'art.4, comma 5, del D.P.R. 11 luglio 1980, n.753, da Euro 103,00 ad Euro 309,00.
+
+La violazione delle norme di cui all'art.6, comma 2, lettere a), b),e), h), i), l) e m) è punita con la sanzione amministrativa pecuniaria da Euro 100,00 ad Euro 500,00.
+
+La violazione dell'art.6, comma 2, lettera f) è punita con la sanzione amministrativa pecuniaria da Euro 250 ad Euro 1.500,00; la violazione dell'art.6, comma 2, lettera g) è punita con la sanzione amministrativa pecuniaria da Euro 200 ad Euro 1.200,00.
+
+L'autorizzazione potrà essere sospesa da 1 a 15 giorni quando
+- non si ottemperi alle disposizioni della diffida nei termini indicati;
+- quando siano state adottate nei confronti dell'operatore due diffide nell'anno solare;
+- quando siano state adottate tre diffide nel triennio di esercizio.
+
+La sospensione sarà comunicata con un preavviso di almeno 7 giorni per consentire di provvedere alle necessarie operazioni propedeutiche alla sospensione dell'attività di trasporto pubblico di linea.
+
+Il provvedimento di sospensione dell'autorizzazione è trasmesso ai competenti uffici di controllo sul territorio.
+
+L'autorizzazione può essere revocata per sopravvenuti motivi di pubblico interesse ovvero nel caso di mutamento della situazione di fatto o di nuova valutazione dell'interesse pubblico originario.
+
+La Città Metropolitana può procedere alla revoca dell'autorizzazione per reiterate e gravi inadempienze nell'osservanza delle disposizioni del presente Regolamento.
+
+L'Amministrazione può disporre la revoca dell'autorizzazione in particolare:
+- in caso di violazione dell'art. 6, comma 2, lettera i), ferma restando la sanzione amministrativa pecuniaria
+- in caso di violazione dell'art.6, comma 2, lettera d) del presente Regolamento, in quanto costituente inadempimento agli obblighi assunti, giusto il disposto di cui al Capo III, comma 3, punto 2), della Direttiva P.C.M. 27/01/1994, pubblicata sulla G.U. n.43 del 22/01/1994;
+- in caso di violazione del disposto di cui all'art. 6 comma 2 lettera n) del presente Regolamento;
+- in caso di perdita dell'autorizzazione per l'esercizio della professione di trasportatore su strada rilasciata dagli uffici della Motorizzazione civile del Ministero delle infrastrutture e dei trasporti.
+- quando siano stati adottati più di due provvedimenti di sospensione dell'autorizzazione all'attività di trasporto autorizzata nel triennio di esercizio;
+- in presenza di comprovate gravi e reiterate irregolarità nello svolgimento del servizio.
+
+La revoca adottata con determinazione dirigenziale sarà notificata alla società autorizzata e agli uffici della Motorizzazione Civile del Ministero delle Infrastrutture e dei Trasporti nonché alle autorità di controllo competenti sul territorio.
+
+Le funzioni di accertamento degli illeciti amministrativi previsti dal presente Regolamento, oltre che dai soggetti espressamente abilitati dalle norme vigenti, vengono svolte dai dipendenti della direzione competente per materia della Città Metropolitana di Firenze espressamente incaricati e dal personale di Polizia metropolitana dell'Ente.","Se cambi il percorso o le fermate senza un motivo di forza maggiore, devi pagare una multa che va da 103 a 309 euro, come stabilito dall'articolo 4 del D.P.R. dell'11 luglio 1980, n.753.
+
+Se non rispetti le regole dell'articolo 6, comma 2, lettere a), b), e), h), i), l) e m), devi pagare una multa che va da 100 a 500 euro.
+
+Se violi l'articolo 6, comma 2, lettera f), la multa va da 250 a 1.500 euro. Se violi l'articolo 6, comma 2, lettera g), la multa va da 200 a 1.200 euro.
+
+L'autorizzazione può essere sospesa da 1 a 15 giorni se:
+- non rispetti le indicazioni della diffida entro i termini;
+- ricevi due diffide in un anno;
+- ricevi tre diffide in tre anni.
+
+Ti avviseranno almeno 7 giorni prima della sospensione, per darti il tempo di prepararti.
+
+La sospensione dell'autorizzazione sarà comunicata agli uffici di controllo competenti.
+
+L'autorizzazione può essere revocata per motivi di pubblico interesse o se cambia la situazione o l'interesse pubblico.
+
+La Città Metropolitana può revocare l'autorizzazione per gravi e ripetute violazioni del Regolamento.
+
+L'Amministrazione può revocare l'autorizzazione se:
+- violi l'articolo 6, comma 2, lettera i), oltre alla multa;
+- violi l'articolo 6, comma 2, lettera d), che è un inadempimento degli obblighi, come indicato nella Direttiva P.C.M. del 27/01/1994;
+- violi l'articolo 6, comma 2, lettera n);
+- perdi l'autorizzazione per la professione di trasportatore su strada;
+- ricevi più di due sospensioni dell'autorizzazione in tre anni;
+- ci sono gravi e ripetute irregolarità nel servizio.
+
+La revoca sarà notificata alla società e agli uffici competenti.
+
+Gli illeciti amministrativi sono accertati dai dipendenti della direzione competente della Città Metropolitana di Firenze e dal personale di Polizia metropolitana.",296,365,1417,1486,618,154,129,21,5,86,44,32,0,6,33,5,0,15,47,5,69,0,9,9,32,12,52.02702702702703,62.41216216216216,56.19530244530245,0.5101351351351351,204,171,33,27,92.97102689743042,1588,86,213,69,129,0.139,0.001,0.589,0.016
+lombardia,Regolamento per la Qualità dell'Aria,1,Articolo 1 – Oggetto e obiettivi,"In considerazione del ricorrente superamento dei limiti normativi di concentrazione del particolato atmosferico, degli ossidi di azoto e, più in generale, del deterioramento della qualità dell'aria della Città di Milano, il presente Regolamento introduce, nel rispetto dei principi dell'ordinamento delle autonomie locali, limitazioni alle attività che generano emissioni atmosferiche, nell'ottica di salvaguardia della qualità dell'aria e di risparmio energetico ovvero di contenimento del degrado ambientale, in ottemperanza a quanto previsto dall'Art.3-ter Parte I Dlgs 152/2006 (Testo Unico Ambiente): ""La tutela dell'ambiente e degli ecosistemi naturali e del patrimonio culturale deve essere garantita da tutti gli enti pubblici e privati e dalle persone fisiche e giuridiche pubbliche o private, mediante una adeguata azione che sia informata ai principi della precauzione, dell'azione preventiva, della correzione, in via prioritaria alla fonte, dei danni causati all'ambiente, nonché al principio ""chi inquina paga"" che, ai sensi dell'articolo 174, comma 2, del Trattato delle unioni europee, regolano la politica della comunità in materia ambientale.""
+
+Il presente Regolamento è approvato in forza dell'articolo 7 del D.lgs. n. 267/2000 e s.m.i. il quale stabilisce che ""nel rispetto dei principi fissati dalla legge e dello statuto, il comune e la provincia adottano regolamenti nelle materie di propria competenza (...)"", nonché del successivo articolo 50, comma 7-ter, in cui viene specificato che ""nelle materie di cui al comma 5, secondo periodo (situazioni di grave incuria o degrado del territorio, dell'ambiente e del patrimonio culturale o di pregiudizio del decoro e della vivibilità urbana), i comuni possono adottare regolamenti"".
+
+Le norme qui contenute si conformano alle disposizioni generali di legge e ai provvedimenti deliberativi di applicazione delle stesse e si coordinano con le specifiche disposizioni dei vigenti regolamenti comunali.","A causa del frequente superamento dei limiti di inquinamento dell'aria a Milano, questo Regolamento introduce delle limitazioni per le attività che producono emissioni nell'aria. L'obiettivo è proteggere la qualità dell'aria e risparmiare energia, riducendo il degrado ambientale. Questo è in linea con l'Articolo 3-ter del Decreto Legislativo 152/2006, che dice che tutti devono proteggere l'ambiente e il patrimonio culturale, seguendo i principi di precauzione, prevenzione, correzione dei danni all'origine e ""chi inquina paga"", come stabilito dal Trattato dell'Unione Europea.
+
+Il Regolamento è approvato secondo l'articolo 7 del Decreto Legislativo n. 267/2000, che permette ai comuni e alle province di adottare regolamenti nelle loro aree di competenza. Inoltre, l'articolo 50, comma 7-ter, specifica che i comuni possono adottare regolamenti in caso di degrado del territorio, dell'ambiente e del patrimonio culturale, o per migliorare il decoro e la vivibilità urbana.
+
+Le norme di questo Regolamento rispettano le leggi generali e si coordinano con i regolamenti comunali esistenti.",166,187,916,937,384,112,95,6,0,50,23,6,0,1,20,7,0,11,33,4,21,0,8,3,21,2,67.46987951807229,44.66265060240964,27.971887550200808,0.5120481927710844,126,104,20,18,95.85882425308228,994,49,134,40,87,0.9490000000000001,0.9490000000000001,1.0,1.0
+lombardia,Regolamento per la Qualità dell'Aria,2,Articolo 2 - Aree di intervento,"In relazione agli obiettivi di cui all'art.1 il Regolamento interviene nei seguenti modi:
+- favorisce il rinnovo degli impianti di riscaldamento ad uso civile, laddove alimentati con combustibili caratterizzati da elevate emissioni atmosferiche, al fine di abbattere le polveri da questi generate;
+- introduce azioni volte al contenimento della dispersione energetica, ovvero al contenimento delle emissioni di CO2, per esercizi commerciali, pubblici esercizi ed edifici aperti al pubblico;
+- favorisce il rinnovo dei generatori di corrente, laddove alimentati con combustibili caratterizzati da elevate emissioni atmosferiche, utilizzati precipuamente presso attività commerciali svolte su area pubblica;
+- introduce misure precauzionali per la conduzione dei cantieri di lavoro in città, nell'ottica di contenimento delle polveri generate a scala locale;
+- dispone prescrizioni in tema di divieto di fumo e di combustioni all'aperto;
+- favorisce la diffusione sul territorio comunale di infrastrutture di ricarica elettrica, in linea con i provvedimenti viabilistici vigenti.","Il Regolamento, per raggiungere gli obiettivi dell'articolo 1, agisce nei seguenti modi:
+
+- Promuove la sostituzione degli impianti di riscaldamento domestico che usano combustibili con alte emissioni, per ridurre le polveri prodotte.
+- Introduce misure per ridurre la dispersione energetica e le emissioni di CO2 nei negozi, nei locali pubblici e negli edifici aperti al pubblico.
+- Incoraggia la sostituzione dei generatori di corrente che usano combustibili con alte emissioni, specialmente per le attività commerciali su suolo pubblico.
+- Stabilisce misure per ridurre le polveri nei cantieri cittadini.
+- Impone divieti sul fumo e sulle combustioni all'aperto.
+- Supporta la diffusione di stazioni di ricarica elettrica nel comune, in accordo con le norme di viabilità esistenti.",112,131,649,668,264,77,66,7,0,39,12,1,0,1,11,2,0,13,29,1,19,0,3,0,12,0,68.75,49.80357142857143,36.78571428571428,0.5803571428571429,85,69,15,10,94.82026100158691,488,41,76,29,58,0.4,0.168,0.217,0.006
+lombardia,Regolamento per la Qualità dell'Aria,3,Articolo 5 - Chiusura delle porte per esercizi commerciali e pubblici esercizi,"Per gli esercizi commerciali, i pubblici esercizi e gli edifici aperti al pubblico nei quali sia attivo un impianto di climatizzazione invernale o estiva, di qualsiasi potenza termica nominale, è fatto obbligo, a far data dal 1 gennaio 2022, di tenere isolato il locale climatizzato; conseguentemente non è ammessa l'apertura costante dei varchi di accesso del pubblico verso i locali interni. In alternativa alle ordinarie porte, sono ammessi dispositivi di ingresso che garantiscono comunque l'isolamento termico degli ambienti (a titolo esemplificativo: porte a bussola) e dispositivi a barriera d'aria.
+
+I dispositivi a barriera d'aria, di cui al comma 1 del presente articolo, devono rispettare i seguenti requisiti:
+- devono essere installati a regola d'arte;
+- il relativo flusso d'aria non deve essere riscaldato tramite resistenza elettrica;
+- devono garantire che la larghezza della barriera d'aria risulti non inferiore alla larghezza dell'apertura dell'esercizio commerciale verso l'esterno;
+- devono essere progettati per garantire una velocità del flusso d'aria al suolo (determinata conformemente alle norme tecniche vigenti) non inferiore a 2 m/s.
+
+Sono sottratti all'obbligo di cui al comma 1 gli esercizi i cui accessi prospettano su spazi comuni di distribuzione separati dall'esterno e climatizzati.
+
+Nel caso di dispositivi a barriera d'aria già installati alla data di entrata in vigore del presente regolamento e non conformi alle caratteristiche di cui al comma 2 del presente articolo, essi devono essere opportunamente adeguati o dismessi entro e non oltre il 1 giugno 2022.","Dal 1 gennaio 2022, i negozi, i locali pubblici e gli edifici aperti al pubblico con impianti di climatizzazione devono tenere chiusi i locali climatizzati. Non si possono lasciare aperte le porte d'ingresso verso l'interno. Si possono usare porte speciali che mantengono l'isolamento termico, come le porte a bussola, o dispositivi a barriera d'aria.
+
+Le barriere d'aria devono rispettare queste regole:
+- Devono essere installate correttamente.
+- Non devono riscaldare l'aria con resistenze elettriche.
+- La barriera d'aria deve essere larga almeno quanto l'apertura del negozio.
+- Devono garantire una velocità dell'aria al suolo di almeno 2 m/s, secondo le norme tecniche.
+
+I negozi con ingressi che danno su spazi comuni chiusi e climatizzati non devono rispettare questo obbligo.
+
+Se le barriere d'aria erano già installate prima dell'entrata in vigore di queste regole e non rispettano i requisiti, devono essere sistemate o rimosse entro il 1 giugno 2022.",156,177,792,813,334,102,81,10,1,43,28,5,0,10,22,4,0,13,24,0,21,0,5,1,22,6,65.38461538461539,57.46153846153846,51.23333333333334,0.6025641025641025,136,121,14,16,95.0059711933136,776,58,109,54,82,0.248,0.147,0.005,0.006
+lombardia,Regolamento per la Qualità dell'Aria,4,Articolo 6 - Commercio su aree pubbliche,"A far data dal 1 gennaio 2022, per le attività di commercio su aree pubbliche, diverse dalle attività di cui al comma 2, è fatto divieto di utilizzare generatori di corrente (gruppi elettrogeni) dotati di motore a combustione interna.
+
+A far data dal 1 ottobre 2022, per le attività di commercio o somministrazione di generi alimentari su aree pubbliche che necessitano di sistemi per la conservazione, la refrigerazione o la cottura degli alimenti, è fatto divieto di utilizzare le seguenti fattispecie di generatori di corrente (gruppi elettrogeni) dotati di motore a combustione interna:
+- alimentati a gasolio;
+- alimentati a miscela benzina/olio con motore a due tempi.
+Per i generatori di corrente deve essere presente pertinente documentazione tecnica comprovante la tipologia del motore o del carburante utilizzato.
+
+In caso di autoveicoli attrezzati ad uso negozio che fanno uso di generatori di corrente vigono le seguenti regole:
+- se i generatori di corrente sono integrati all'autoveicolo, gli obblighi di cui al comma 2 decorrono a far data dal 1 ottobre 2028;
+- in caso di generatori esterni agli autoveicoli si applicano gli obblighi e le scadenze cui al comma 2.
+
+A far data dal 1 gennaio 2022, per i concessionari delle attività di commercio su aree pubbliche extramercato con posteggio (così come individuati all'art. 21 del Regolamento per la disciplina del commercio su aree pubbliche del Comune di Milano), che operano nella medesima località per almeno quattro giorni settimanali, è fatto divieto di utilizzare impianti autonomi di erogazione di energia elettrica sostitutivi dell'allacciamento alla rete elettrica. Gli adempimenti necessari all'allacciamento alla rete elettrica, nonché i relativi oneri economici sono a carico dei suddetti concessionari.","Dal 1 gennaio 2022, chi fa commercio su aree pubbliche non può usare generatori di corrente con motore a combustione interna, tranne per le attività specificate nel comma 2.
+
+Dal 1 ottobre 2022, chi vende o somministra cibo su aree pubbliche e ha bisogno di sistemi per conservare, refrigerare o cuocere il cibo, non può usare generatori di corrente con motore a combustione interna alimentati a gasolio o a miscela benzina/olio con motore a due tempi. È necessario avere documentazione tecnica che dimostri il tipo di motore o carburante usato.
+
+Per i veicoli attrezzati come negozi che usano generatori di corrente, valgono queste regole:
+- Se i generatori sono integrati nel veicolo, le regole del comma 2 si applicano dal 1 ottobre 2028.
+- Se i generatori sono esterni al veicolo, si applicano le regole e le scadenze del comma 2.
+
+Dal 1 gennaio 2022, i concessionari che fanno commercio su aree pubbliche fuori mercato con posteggio a Milano, e che lavorano nella stessa località per almeno quattro giorni a settimana, non possono usare impianti autonomi di energia elettrica al posto dell'allacciamento alla rete elettrica. Devono occuparsi e pagare per l'allacciamento alla rete elettrica.",195,217,978,1000,415,109,95,8,0,60,31,13,0,4,12,8,0,14,42,1,22,0,8,2,29,2,55.8974358974359,51.15384615384615,43.29166666666666,0.558974358974359,154,133,19,23,96.56686186790466,718,55,104,47,77,0.78,0.03,0.094,0.013000000000000001
+lombardia,Regolamento per la Qualità dell'Aria,5,Articolo 12 - Attività di vigilanza,L'Amministrazione Comunale esercita le proprie funzioni di vigilanza al fine di assicurare la corretta osservanza del presente Regolamento all'interno del territorio del Comune di Milano. L'esercizio di tale attività è affidato al Corpo della Polizia Locale.,Il Comune di Milano controlla che il Regolamento sia rispettato nel suo territorio. La Polizia Locale si occupa di questo controllo.,21,23,110,112,46,20,18,2,0,5,4,0,0,0,5,1,0,1,3,1,2,0,0,1,2,2,95.23809523809523,65.19047619047619,53.11904761904759,0.47619047619047616,17,16,1,2,94.8011040687561,160,13,29,12,19,0.048,1.0,0.006,0.893
+lombardia,Regolamento per la Qualità dell'Aria,6,Articolo 13 - Sanzioni,"Salvo che il fatto sia previsto dalla legge come reato, alle violazioni delle disposizioni contenute nel presente Regolamento si applicano, nelle forme e con le modalità previste dalla Legge 24 novembre 1981 n.689, le sanzioni amministrative elencate nella tabella riportata nell'Allegato A, che costituisce parte integrante del presente Regolamento, e, per quanto non previsto della suddetta tabella, le disposizioni dell'art. 7 bis del D.lgs. 18 agosto 2000 n. 267.","Se la legge non considera il fatto un reato, chi viola le regole di questo Regolamento riceverà le sanzioni amministrative indicate nella tabella dell'Allegato A. Questo Allegato fa parte del Regolamento. Le sanzioni saranno applicate seguendo le modalità della Legge del 24 novembre 1981 n.689. Se la tabella non prevede qualcosa, si seguiranno le regole dell'articolo 7 bis del Decreto Legislativo del 18 agosto 2000 n. 267.",69,74,355,360,148,54,47,4,0,21,10,7,0,2,11,3,0,1,9,3,5,0,0,2,8,2,78.26086956521739,54.94202898550725,49.3297101449275,0.4927536231884058,47,38,9,1,96.6448187828064,272,27,36,24,25,0.7609999999999999,0.96,0.982,0.654
+calabria,Regolamento per la disciplina della Tassa sui Rifiuti (TARI),1,Art. 1 ISTITUZIONE DEL TRIBUTO,"Per la copertura integrale del costo del servizio di gestione dei rifiuti urbani, a decorrere dal 1° gennaio 2014, è istituita la Tassa sui Rifiuti (TARI), da applicare secondo quanto disposto dall'articolo 1, commi 639 e seguenti, della legge 27 dicembre 2013, n. 147 e successive modifiche, come disposto dall'art. 1, comma 738, della Legge 27 dicembre 2019, n.160 ""Bilancio di previsione dello Stato per l'anno finanziario 2020 e bilancio pluriennale per il triennio 2020-2022"", ha disposto che ""A decorrere dal 2020, l'imposta unica comunale di cui all'articolo 1, comma 639, della legge 27 dicembre 2013, n. 147 è abolita, ad eccezione delle disposizioni relative alla tassa sui rifiuti (TARI)"", e con l'osservanza delle prescrizioni e dei criteri di cui al presente regolamento.
+
+Il predetto prelievo, di natura tributaria, è finalizzato alla copertura integrale dei costi relativi al servizio di gestione dei rifiuti urbani, nel rispetto dei criteri fissati dal presente regolamento.
+
+La classificazione dei rifiuti urbani e dei rifiuti speciali è effettuata con riferimento alle definizioni di cui all'art.184 del D.Lgs n. 152/2006 e s.m.i (T.U.A.) e secondo le disposizioni regolamentari vigenti.
+
+L'entrata qui disciplinata ha natura tributaria, non intendendosi con il presente regolamento attivare la tariffa con natura corrispettiva di cui all'articolo 1, comma 668, della legge n. 147/2013.
+
+Il regolamento è conforme ai principi previsti nelle vigenti disposizioni di cui alla legge 27 dicembre 2017 n. 205 che attribuiscono all'Autorità di Regolazione per Energia Reti e Ambiente (ARERA) funzioni di regolazione e controllo del ciclo dei rifiuti, anche differenziati, urbani e assimilati, da esercitarsi ""con i medesimi poteri e nel quadro dei principi, delle finalità e delle attribuzioni, anche di natura sanzionatoria"" stabiliti dalla legge istitutiva e già esercitati negli altri settori di competenza.
+
+Per quanto non previsto dal presente regolamento, si rinvia alle disposizioni normative legislative e regolamentari vigenti tempo per tempo.","Dal 1° gennaio 2014, è stata introdotta la Tassa sui Rifiuti (TARI) per coprire interamente i costi del servizio di gestione dei rifiuti urbani. Questa tassa segue le regole stabilite dalla legge del 27 dicembre 2013, n. 147, e le sue modifiche successive. Dal 2020, la legge di bilancio ha eliminato l'imposta unica comunale, ma ha mantenuto la TARI. La TARI copre tutti i costi del servizio di gestione dei rifiuti urbani, seguendo i criteri di questo regolamento.
+
+I rifiuti urbani e speciali sono classificati secondo le definizioni dell'articolo 184 del Decreto Legislativo n. 152/2006 e le regole attuali. La TARI è un'imposta e non una tariffa basata sull'uso, come specificato dalla legge n. 147/2013.
+
+Il regolamento rispetta i principi della legge del 27 dicembre 2017 n. 205, che assegna all'Autorità di Regolazione per Energia Reti e Ambiente (ARERA) il compito di regolare e controllare il ciclo dei rifiuti urbani e assimilati. ARERA esercita queste funzioni con gli stessi poteri e principi usati in altri settori.
+
+Per tutto ciò che non è specificato in questo regolamento, si fa riferimento alle leggi e regolamenti vigenti.",189,211,933,955,393,123,97,9,0,53,25,11,0,3,28,4,0,16,31,7,22,0,10,1,18,7,65.07936507936508,53.92063492063492,49.84126984126982,0.5132275132275133,143,122,21,15,93.40941905975342,1075,52,135,44,73,0.586,0.051,0.261,0.017
+calabria,Regolamento per la disciplina della Tassa sui Rifiuti (TARI),2,ART. 2 OGGETTO E AMBITO DI APPLICAZIONE DEL REGOLAMENTO,"Il presente regolamento, adottato nell'ambito della potestà regolamentare prevista dall'articolo 52 del decreto legislativo 15 dicembre 1997, n. 446, integra la disciplina legislativa della tassa sui rifiuti, statuita dall'art. 1, commi 641 e seguenti della legge 27 dicembre 2013, n. 147, conformemente alle disposizioni contenute nel D.Lgs. 3 settembre 2020, n.116, e dal D.P.R. 158/1999, aggiornate secondo il contenuto della delibera n. 443/2019, n. 363/2021 e 15/2022 emanate dall'autorità di regolazione ARERA.
+
+Il presente regolamento fissa i criteri per l'applicazione del tributo al fine di:
+- definire i coefficienti ed i meccanismi di determinazione delle tariffe delle diverse utenze, unitamente alle modalità di applicazione del tributo;
+- classificare le categorie di utenza, nel rispetto delle disposizioni dettate dal legislatore nazionale, in considerazione della potenzialità dei rifiuti conferiti;
+- esercitare la potestà regolamentare attribuita ai Comuni ai sensi dell'articolo 52 del D.Lgs. 15 dicembre 1997, n. 446, con particolare riferimento alla gestione del tributo, alle riduzioni ed agevolazioni previste dal legislatore.","Questo regolamento, creato secondo l'articolo 52 del decreto legislativo del 15 dicembre 1997, n. 446, aggiunge dettagli alla legge sulla tassa sui rifiuti, stabilita dall'articolo 1, commi 641 e seguenti della legge del 27 dicembre 2013, n. 147. Si allinea anche con le regole del D.Lgs. 3 settembre 2020, n.116, e del D.P.R. 158/1999, aggiornate dalle delibere n. 443/2019, n. 363/2021 e 15/2022 dell'autorità ARERA.
+
+Questo regolamento stabilisce come applicare la tassa sui rifiuti per:
+- definire i coefficienti e i metodi per calcolare le tariffe per diversi tipi di utenze e spiegare come applicare la tassa;
+- classificare le categorie di utenza, seguendo le leggi nazionali, in base alla quantità di rifiuti prodotti;
+- permettere ai Comuni di gestire la tassa, incluse le riduzioni e agevolazioni previste dalla legge, come indicato nell'articolo 52 del D.Lgs. 15 dicembre 1997, n. 446.",142,168,729,755,293,93,81,8,0,47,18,19,0,1,14,1,0,4,28,1,26,0,6,3,18,0,65.49295774647888,54.563380281690144,54.13028169014083,0.49295774647887325,97,83,13,11,97.24159240722656,487,35,67,31,38,0.79,0.23800000000000002,0.97,0.96
+calabria,Regolamento per la disciplina della Tassa sui Rifiuti (TARI),3,ART. 3 RIFIUTI URBANI E RIFIUTI SPECIALI,"La gestione dei rifiuti urbani comprende la raccolta, il trasporto, il recupero e lo smaltimento dei rifiuti urbani domestici e non domestici e costituisce un servizio di pubblico interesse, svolto in regime di privativa sull'intero territorio comunale.
+
+La definizione e classificazione delle diverse tipologie di rifiuti sono contenute nel Decreto Legislativo 3 aprile 2006, n.152 e s.m.i., così come modificato dal D.Lgs. 116/2020, dal 1 gennaio 2021, i rifiuti sono classificabili, secondo l'origine, in rifiuti urbani e rifiuti speciali e, secondo le caratteristiche di pericolosità, in rifiuti pericolosi e rifiuti non pericolosi.
+
+Il recepimento nel nostro ordinamento delle direttive europee sull'economia circolare ha determinato una revisione del Decreto Legislativo 3 aprile 2006 n. 152 (Testo Unico Ambientale – T.U.A.) sotto vari profili. In particolare il Decreto Legislativo 3 settembre 2020 n. 116, attuativo della delibera comunitaria n. 851/2018 riforma l'art. 198 del T.U.A. (art. 1 comma 24 della D.Leg.vo 116/2020) sopprimendo ogni riferimento ai rifiuti assimilati agli urbani.
+
+Sono Rifiuti Urbani ai sensi dell'articolo 183, comma, lettera b)-ter del Decreto Legislativo 3 aprile 2006, n. 152:
+- i rifiuti domestici indifferenziati e da raccolta differenziata, ivi compresi: carta e cartone, vetro, metalli, plastica, rifiuti organici, legno, tessili, imballaggi, rifiuti di apparecchiature elettriche ed elettroniche, rifiuti di pile e accumulatori e rifiuti ingombranti, ivi compresi materassi e mobili;
+- i rifiuti indifferenziati e da raccolta differenziata provenienti da altre fonti che sono simili per natura e composizione ai rifiuti domestici indicati nell'allegato L-quater prodotti dalle attività riportate nell'allegato L-quinquies al medesimo decreto legislativo;
+-i rifiuti provenienti dallo spazzamento delle strade e dallo svuotamento dei cestini portarifiuti;
+- i rifiuti di qualunque natura o provenienza, giacenti sulle strade ed aree pubbliche o sulle strade ed aree private comunque soggette ad uso pubblico o sulle spiagge marittime e lacuali e sulle rive dei corsi d'acqua;
+- i rifiuti della manutenzione del verde pubblico, come foglie, sfalci d'erba e potature di alberi, nonché i rifiuti risultanti dalla pulizia dei mercati;
+- i rifiuti provenienti da aree cimiteriali, esumazioni ed estumulazioni, nonché gli altri rifiuti provenienti da attività cimiteriale diversi da quelli di cui alle lettere c, d ed e.
+
+Sono Rifiuti Speciali, così come definiti dall'articolo 184, comma 3, del D.Lgs. 3 aprile 2006, n. 152:
+- i rifiuti prodotti nell'ambito delle attività agricole, agro-industriali e della silvicoltura, ai sensi e per gli effetti dell'articolo 2135 del Codice Civile, e della pesca;
+- i rifiuti prodotti dalle attività di costruzione e demolizione, nonché i rifiuti che derivano dalle attività di scavo, fermo restando quanto disposto dall'articolo 184-bis, del D.Lgs. 3 aprile 2006, n. 152;
+- i rifiuti prodotti nell'ambito delle lavorazioni industriali se diversi dai rifiuti urbani come sopra individuati;
+- i rifiuti prodotti nell'ambito delle lavorazioni artigianali se diversi dai rifiuti urbani come sopra individuati;
+- i rifiuti prodotti nell'ambito delle attività commerciali se diversi dai rifiuti urbani come sopra individuati;
+- i rifiuti prodotti nell'ambito delle attività di servizio se diversi dai rifiuti urbani come sopra individuati;
+- i rifiuti derivanti dall'attività di recupero e smaltimento di rifiuti, i fanghi prodotti dalla potabilizzazione e da altri trattamenti delle acque e dalla depurazione delle acque reflue, nonché i rifiuti da abbattimento di fumi, dalle fosse settiche e dalle reti fognarie;
+- i rifiuti derivanti da attività sanitarie se diversi dai rifiuti urbani come sopra individuati;
+- i rifiuti derivanti dalla pesca;
+- i veicoli fuori uso.","La gestione dei rifiuti urbani include la raccolta, il trasporto, il recupero e lo smaltimento dei rifiuti domestici e non domestici. Questo servizio è di interesse pubblico e viene svolto in esclusiva su tutto il territorio comunale.
+
+Il Decreto Legislativo 3 aprile 2006, n. 152, modificato dal D.Lgs. 116/2020, definisce e classifica i rifiuti. Dal 1 gennaio 2021, i rifiuti si dividono in urbani e speciali, in base alla loro origine, e in pericolosi e non pericolosi, in base alle loro caratteristiche.
+
+L'adozione delle direttive europee sull'economia circolare ha portato a una revisione del Decreto Legislativo 3 aprile 2006 n. 152 (Testo Unico Ambientale – T.U.A.). In particolare, il Decreto Legislativo 3 settembre 2020 n. 116 ha modificato l'articolo 198 del T.U.A., eliminando i riferimenti ai rifiuti assimilati agli urbani.
+
+Secondo l'articolo 183 del Decreto Legislativo 3 aprile 2006, n. 152, i Rifiuti Urbani includono:
+- i rifiuti domestici, sia indifferenziati che differenziati, come carta, cartone, vetro, metalli, plastica, rifiuti organici, legno, tessili, imballaggi, apparecchiature elettriche ed elettroniche, pile, accumulatori e rifiuti ingombranti come materassi e mobili;
+- i rifiuti simili ai domestici, provenienti da altre fonti, elencati nell'allegato L-quater e prodotti dalle attività dell'allegato L-quinquies;
+- i rifiuti dallo spazzamento delle strade e dallo svuotamento dei cestini;
+- i rifiuti trovati su strade e aree pubbliche o private ad uso pubblico, spiagge e rive di corsi d'acqua;
+- i rifiuti della manutenzione del verde pubblico, come foglie e potature, e quelli dalla pulizia dei mercati;
+- i rifiuti da aree cimiteriali, esumazioni ed estumulazioni, e altri rifiuti cimiteriali non inclusi nelle categorie precedenti.
+
+I Rifiuti Speciali, secondo l'articolo 184 del D.Lgs. 3 aprile 2006, n. 152, includono:
+- i rifiuti da attività agricole, agro-industriali, silvicoltura e pesca;
+- i rifiuti da costruzione, demolizione e scavo;
+- i rifiuti da lavorazioni industriali, artigianali, commerciali e di servizio, se diversi dai rifiuti urbani;
+- i rifiuti da recupero e smaltimento di rifiuti, fanghi da trattamenti delle acque e depurazione, e rifiuti da abbattimento di fumi, fosse settiche e reti fognarie;
+- i rifiuti da attività sanitarie, se diversi dai rifiuti urbani;
+- i rifiuti dalla pesca;
+- i veicoli fuori uso.",357,445,1924,2012,820,198,165,23,1,127,21,21,0,3,35,3,0,47,62,9,88,0,26,2,19,2,55.46218487394958,54.43417366946779,41.17854098161004,0.5546218487394958,264,216,42,42,96.27152681350708,1526,36,131,31,87,0.41600000000000004,0.662,0.985,0.991
+calabria,Regolamento per la disciplina della Tassa sui Rifiuti (TARI),4,ART. 4 SOGGETTO ATTIVO,"La TARI è applicata e riscossa dal Comune nel cui territorio insiste, interamente o prevalentemente, la superficie dei locali ed aree tassabili. Ai fini della prevalenza si considera l'intera superficie dell'immobile, anche se parte di essa sia esclusa o esente da tassa.
+
+In caso di variazioni delle circoscrizioni territoriali dei comuni, anche se dipendenti dall'istituzione di nuovi comuni, si considera soggetto attivo il Comune nell'ambito del cui territorio risultano ubicati gli immobili al 1° gennaio dell'anno cui la tassa si riferisce, salvo diversa intesa tra gli enti interessati e fermo rimanendo il divieto di doppia imposizione.
+
+Il soggetto che si occupa della gestione dei rifiuti, svolta in regime di privativa pubblica sull'intero territorio comunale, è designato come gestore del servizio.","Il Comune applica e riscuote la TARI per i locali e le aree tassabili che si trovano nel suo territorio, interamente o per la maggior parte. Per stabilire quale Comune è responsabile, si considera l'intera superficie dell'immobile, anche se alcune parti non sono soggette a tassa.
+
+Se cambiano i confini dei comuni, anche per la creazione di nuovi comuni, il Comune responsabile è quello in cui si trovano gli immobili al 1° gennaio dell'anno a cui si riferisce la tassa. Questo vale a meno che i comuni coinvolti non abbiano un accordo diverso, e non ci sia una doppia imposizione.
+
+Il gestore del servizio di gestione dei rifiuti, che opera in regime di esclusiva pubblica su tutto il territorio comunale, è chiamato gestore del servizio.",128,141,601,614,257,88,73,5,0,29,17,0,0,7,20,11,0,13,21,3,13,0,4,3,15,2,68.75,53.765625,49.8921875,0.515625,112,106,7,11,96.38234972953796,358,48,48,45,33,0.701,0.08199999999999999,0.8590000000000001,0.948
+calabria,Regolamento per la disciplina della Tassa sui Rifiuti (TARI),5,ART. 5 SOGGETTO PASSIVO,"La TARI è dovuta da chi, persona fisica o giuridica, a qualsiasi titolo possieda o detenga i locali o aree scoperte a qualsiasi uso adibiti, suscettibili di produrre rifiuti urbani di cui all'art. 183 comma 1 lettera b-ter del D.Lgs. 152/2006, con vincolo di solidarietà tra i componenti la famiglia o coloro che usano in comune le superfici stesse. In caso di pluralità di possessori o di detentori, essi sono tenuti in solido all'adempimento dell'obbligazione tributaria
+
+In caso di detenzione temporanea, di durata non superiore a sei mesi, nel corso dello stesso anno solare, la TARI è dovuta soltanto dal possessore dei locali e delle aree a titolo di proprietà, usufrutto, uso, abitazione o superficie.
+
+In presenza di locali in multiproprietà e di centri commerciali integrati, responsabile del versamento della tassa dovuta per i locali e per le aree scoperte di uso comune, è il soggetto che gestisce i servizi comuni. I locali e le aree scoperte in uso esclusivo restano invece a carico dei singoli occupanti o detentori.
+
+Per le organizzazioni prive di personalità giuridica e le associazioni non riconosciute la tassa è dovuta da chi le presiede o le rappresenta, con vincolo di solidarietà tra tutti i soci.
+
+Per i locali destinati ad attività ricettiva (residence, affittacamere, B&B e simili) la tariffa è dovuta da chi gestisce l'attività; i locali di affittacamere sono quelli per i quali l'attività è conseguente ad una autorizzazione amministrativa rilasciata dal competente ufficio.
+
+Il Comune, quale ente impositore, è soggetto passivo del tributo per i locali e le aree adibite ad uffici e servizi comunali. La copertura delle spese è assicurata da risorse diverse dai proventi del tributo relativo all'esercizio di competenza.","La TARI deve essere pagata da chiunque, persona fisica o giuridica, possieda o utilizzi locali o aree scoperte che possono produrre rifiuti urbani, come indicato nell'articolo 183 del D.Lgs. 152/2006. Se più persone possiedono o usano questi spazi, sono tutte responsabili insieme per il pagamento della tassa.
+
+Se qualcuno utilizza temporaneamente i locali per non più di sei mesi nello stesso anno, la TARI deve essere pagata solo dal proprietario o da chi ha un diritto reale come usufrutto, uso, abitazione o superficie.
+
+Nei casi di multiproprietà o centri commerciali integrati, chi gestisce i servizi comuni deve pagare la tassa per le aree comuni. I singoli occupanti devono pagare per le aree che usano esclusivamente.
+
+Per le organizzazioni senza personalità giuridica e le associazioni non riconosciute, il presidente o il rappresentante deve pagare la tassa, ma tutti i soci sono responsabili insieme.
+
+Per le attività ricettive come residence, affittacamere e B&B, chi gestisce l'attività deve pagare la TARI. Gli affittacamere devono avere un'autorizzazione amministrativa per l'attività.
+
+Il Comune paga la TARI per i locali e le aree usate per uffici e servizi comunali, ma copre le spese con risorse diverse dai proventi della TARI.",198,221,1028,1051,441,121,98,10,0,47,33,3,0,7,31,8,0,19,25,8,23,0,14,3,27,6,61.111111111111114,52.23232323232323,41.42727272727272,0.5353535353535354,168,156,12,14,95.51443457603455,781,63,121,57,90,0.728,0.879,0.213,0.331
+calabria,Regolamento per la disciplina della Tassa sui Rifiuti (TARI),6,ART. 6 PRESUPPOSTO OGGETTIVO,"Il presupposto della TARI è il possesso o la detenzione a qualsiasi titolo e anche di fatto, di locali o di aree scoperte, a qualsiasi uso adibiti, suscettibili di produrre rifiuti urbani.
+
+Si considerano suscettibili di produrre rifiuti urbani:
+- tutti i locali, comunque denominati, esistenti in qualsiasi specie di costruzione stabilmente infissa al suolo o nel suolo, chiusi o chiudibili da ogni lato verso l'esterno, qualunque sia la loro destinazione o il loro uso, a prescindere dalla loro regolarità in relazione alle disposizioni di carattere urbanistico edilizio e catastale;
+- le aree scoperte, intendendosi per tali sia le superfici prive di edifici o di strutture edilizie, sia gli spazi circoscritti che non costituiscono locale, come tettoie, balconi, terrazze, dancing, cinema all'aperto e parcheggi, salvo i casi di esclusione di cui al successivo articolo 8;
+- aree destinate in modo temporaneo e non continuativo ad attività quali mercati ambulanti, fiere, mostre ed attività similari.
+
+La presenza di arredo oppure l'attivazione anche di uno solo dei pubblici servizi di erogazione idrica, elettrica, calore, gas, telefonica o informatica, costituiscono presunzione semplice dell'occupazione o conduzione dell'immobile e della conseguente attitudine alla produzione di rifiuti. Per le utenze non domestiche la medesima presunzione è integrata altresì dal rilascio da parte degli enti competenti, anche in forma tacita, di atti assentivi o autorizzativi per l'esercizio di attività nell'immobile o da dichiarazione rilasciata da titolare di pubblica autorità. Per le utenze domestiche la medesima presunzione è integrata dall'acquisizione della residenza anagrafica. Sono comunque considerati tassabili i locali non a destinazione abitativa sfitti e/o non occupati se idonei all'utilizzo di magazzino o deposito.
+
+Nelle unità immobiliari adibite a civile abitazione, qualora una parte della superficie sia utilizzata per lo svolgimento di un'attività economica e/o professionale, il titolare ha l'obbligo di indicare la superficie destinata allo svolgimento dell'attività economica, e relativamente a tale superficie, si applica la tariffa vigente per l'attività stessa.
+
+La mancata utilizzazione del servizio di gestione dei rifiuti urbani o l'interruzione temporanea dello stesso non comportano esonero o riduzione della TARI.","La TARI si applica a chi possiede o utilizza locali o aree scoperte che possono produrre rifiuti urbani.
+
+Sono considerati in grado di produrre rifiuti urbani:
+- tutti i locali di qualsiasi tipo, che fanno parte di una costruzione fissata al suolo, chiusi o chiudibili, indipendentemente dal loro uso o dalla loro regolarità urbanistica;
+- le aree scoperte, come spazi senza edifici o strutture, e spazi delimitati che non sono locali, come tettoie, balconi, terrazze, cinema all'aperto e parcheggi, tranne nei casi di esclusione previsti dall'articolo 8;
+- aree usate temporaneamente per attività come mercati ambulanti, fiere e mostre.
+
+Se c'è arredamento o se sono attivi servizi pubblici come acqua, elettricità, gas o internet, si presume che l'immobile sia occupato e produca rifiuti. Per le attività non domestiche, questa presunzione è confermata anche da autorizzazioni rilasciate dagli enti competenti o da dichiarazioni di pubblica autorità. Per le abitazioni, la presunzione è confermata dalla residenza anagrafica. Anche i locali non abitativi vuoti o non occupati sono tassabili se possono essere usati come magazzino o deposito.
+
+Nelle case, se una parte è usata per un'attività economica o professionale, il proprietario deve indicare la superficie usata per l'attività, e su questa si applica la tariffa specifica.
+
+Non usare il servizio di gestione dei rifiuti urbani o interromperlo temporaneamente non esonera o riduce la TARI.",224,257,1190,1223,512,143,119,11,0,60,38,1,0,11,23,9,0,25,32,2,33,0,18,5,25,13,63.83928571428571,50.607142857142854,37.06493506493506,0.5982142857142857,192,170,20,28,94.35002207756042,1086,58,138,48,87,0.6659999999999999,0.9840000000000001,0.9740000000000001,1.0
+calabria,Regolamento per la disciplina della Tassa sui Rifiuti (TARI),7,ART. 7 DEFINIZIONI,"Ai fini del presente regolamento si intendono per:
+- locali, le strutture stabilmente infisse al suolo chiuse su tre lati verso l'esterno, anche se non conformi alle disposizioni urbanistico-edilizie;
+- aree scoperte, sia le superfici prive di edifici o di strutture edilizie, sia gli spazi circoscritti che non costituiscono locale, come tettoie, balconi, terrazze, campeggi, dancing e cinema all'aperto, parcheggi;
+- utenze domestiche, le superfici adibite a civile abitazione;
+- utenze non domestiche, le restanti superfici, tra cui le comunità, le attività commerciali, artigianali, industriali, professionali e le attività produttive in genere.","In questo regolamento, i termini significano:
+
+- Locali: strutture fissate al suolo, chiuse su tre lati, anche se non seguono le regole urbanistiche ed edilizie.
+- Aree scoperte: superfici senza edifici o strutture, o spazi delimitati che non sono locali, come tettoie, balconi, terrazze, campeggi, dancing, cinema all'aperto e parcheggi.
+- Utenze domestiche: superfici usate come abitazioni civili.
+- Utenze non domestiche: tutte le altre superfici, come quelle di comunità, attività commerciali, artigianali, industriali, professionali e produttive in generale.",76,104,456,484,191,64,60,9,0,29,6,1,0,4,5,2,0,13,10,0,28,0,5,1,6,0,84.21052631578947,64.52631578947368,34.20029239766082,0.6842105263157895,62,51,9,8,96.09177708625793,183,24,34,20,25,0.35100000000000003,1.0,0.742,1.0
+calabria,Regolamento per la disciplina della Tassa sui Rifiuti (TARI),8,Art. 12 VINCOLO DI SOLIDARIETÀ,"I soggetti passivi che detengono o posseggano i locali o le aree, come individuate ai precedenti articoli 6 e 9, sono tenuti al versamento del tributo con vincolo di solidarietà tra i componenti del nucleo familiare o tra coloro che usano in comune i suddetti locali o aree.",Le persone che possiedono o utilizzano i locali o le aree indicate negli articoli 6 e 9 devono pagare il tributo. Tutti i membri della famiglia o le persone che condividono questi spazi sono responsabili insieme del pagamento.,38,40,187,189,84,32,28,2,0,10,7,2,0,1,9,2,0,1,2,0,2,0,4,0,7,0,84.21052631578947,55.578947368421055,43.31578947368419,0.5,31,31,0,4,93.69794130325317,145,20,26,17,20,0.45,0.996,0.0,0.0
