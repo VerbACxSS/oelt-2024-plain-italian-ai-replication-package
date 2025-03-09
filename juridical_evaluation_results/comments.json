@@ -1,0 +1,350 @@
+[
+    {
+        "reviewer": "Jurist2",
+        "comment": "più preciso",
+        "type": "original",
+        "labels": ["MORE_ACCURATE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Si segnala l'errata espressione \"vigenti tempo per tempo\". ",
+        "type": "original",
+        "labels": ["PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "giuridicamente più orecchiabile",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "incompleto e semplice",
+        "type": "original",
+        "labels": ["PROBLEMATIC", "EASIER"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "più preciso",
+        "type": "original",
+        "labels": ["MORE_ACCURATE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo A ha un linguaggio più formale e giuridico. ",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo B ha linguaggio giuridico più puntuale e contiene il riferimento al \"rispetto dei principi dell'ordinamento delle autonomie locali\".",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "Giuridicamente più orecchiabile, anche se alcune frasi un pò vetuste",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo A ha forma e linguaggio giuridico più puntuale.",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "è il testo originale",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo A ha un linguaggio giuridicamente meno appropriato; il riferimento ad ogni intervento in maniera impersonale, senza alcun riferimento ai soggetti tenuti (\"soggetti responsabili\"), potrebbe ingenerare confusione.  ",
+        "type": "original",
+        "labels": ["JURIDICALLY_WORSE", "PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo A utilizza un linguaggio giuridico più puntuale. ",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "giuridicamente migliore",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "migliore",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "giuridicamente più corretto",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "leggermente impreciso",
+        "type": "original",
+        "labels": ["LESS_ACCURATE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Si segnala l'eliminazione della seconda voce. ",
+        "type": "original",
+        "labels": ["PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo B presenta linguaggio giuridico più appropriato. ",
+        "type": "original",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "L'espressione \"strutture che il suolo sostiene stabilmente\" non è appropriata nel linguaggio giuridico.  ",
+        "type": "chain",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Inutile ripetizione della parola \"Regolamento\" ad inizio di ogni frase. ",
+        "type": "chain",
+        "labels": ["MORE_ACCURATE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo ha riporta costruzioni linguistiche errate. Si segnala, rispetto al testo B, l'assenza del riferimento al \"rispetto dei principi dell'ordinamento delle autonomie locali\".",
+        "type": "chain",
+        "labels": ["PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo B riporta costruzioni linguistiche errate (primo e terzo paragrafo), oltre che un linguaggio giuridicamente meno puntuale del testo A.   ",
+        "type": "chain",
+        "labels": ["PROBLEMATIC", "JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo A ha un linguaggio giuridico più appropriato e prevede, per ogni intervento, il riferimento ai soggetti tenuti (\"soggetti responsabili\").",
+        "type": "chain",
+        "labels": ["JURIDICALLY_BETTER"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "Il testo non ha senso in svariati punti",
+        "type": "chain",
+        "labels": ["PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "meno preciso nel significato giuridico",
+        "type": "chain",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Si segnala la frase: “In ambito urbano, i cavi aerei per le reti elettriche e di telecomunicazione devono avere un'altezza minima da terra di mt. 5,00, ai sensi dell'articolo 2.1.06 del Decreto Ministeriale 2”, in cui il verbo “dovere” al posto del termine “aventi” ne cambia il significato giuridico rispetto alla corrispondente previsione del testo A.  ",
+        "type": "chain",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Nella pur apprezzabile operazione di semplificazione del testo B vengono, tuttavia, sostituiti anche termini tecnici necessari ( es. combustione/bruciare; porzione ipogea ed epigea/parte sotterranea e a quella sopraelevata) ",
+        "type": "chain",
+        "labels": ["EASIER", "JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo B utilizza un linguaggio giuridico non appropriato. Si segnala, nel testo B, l'omesso riferimento al possesso e alla detenzione \" a qualsiasi titolo\", omissione che rischia di alterare il contesto giuridico. ",
+        "type": "chain",
+        "labels": ["PROBLEMATIC", "JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo A utilizza un linguaggio poco tecnico che, in alcuni casi, rischia di incidere sul significato giuridico (es. gestione esclusiva, invece del tipico regime di privativa; )",
+        "type": "chain",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo A, sebbene effettivamente più comprensibile, presenta linguaggio e costruzioni non comuni nel contesto giuridico (ad es. l'uso del plurale \"vietiamo\" invece dell'impersonale \"è vietato\"). ",
+        "type": "chain",
+        "labels": ["EASIER", "JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "Non si comprende l'eliminazione della voce. ",
+        "type": "chain",
+        "labels": ["PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "non contempla bene il principio di copertura integrale; linguaggio troppo semplice; il diritto ha anche una sua forma",
+        "type": "basic",
+        "labels": ["EASIER", "PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "la prima frase del testo A è leggermente divergente dalla prima frase del testo B",
+        "type": "basic",
+        "labels": ["PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "giuridicamente un pò impreciso",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Sebbene più comprensibile, il testo B non ha la forma di un testo giuridico. ",
+        "type": "basic",
+        "labels": ["EASIER", "JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Si segnala una difformità giuridicamente rilevante tra i due testi: strada/via pubblica. ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Si segnalano alcune difformità giuridiche tra i due testi: 1. proprietario/interessati; 2. lavori/opere; 3. 30gg/un mese. ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo B ha un linguaggio giuridico meno appropriato. Si segnala l'assenza del riferimento alla detenzione a qualsiasi titolo degli animali selvatici, sia autoctoni che alloctoni. ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE", "PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Sebbene più comprensibile, il testo B riporta delle imprecisioni. Ad esempio, nel prevedere che \"i bambini con handicap che non sono stati inseriti nella graduatoria entro i termini di legge saranno ammessi immediatamente al nido, sempre superando del 15% la capienza\", omette il rilevante riferimento alla figura responsabile del \"Direttore educativo\".",
+        "type": "basic",
+        "labels": ["EASIER", "PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo B, sebbene più comprensibile, ha un linguaggio giuridico meno appropriato del testo A. ",
+        "type": "basic",
+        "labels": ["EASIER", "JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo B non ha linguaggio giuridico appropriato; il riferimento alla multa invece che alla sanzione amministrativa pecuniaria è giuridicamente errato. ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Rispetto al testo A manca del tutto l'inciso \"nonché la percentuale di copertura dei costi di gestione dei servizi pubblici a domanda individuale in essa indicata\". ",
+        "type": "basic",
+        "labels": ["PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Si segnala la seguente difformità giuridicamente rilevante tra i due testi: aperti al pubblico/uso pubblico.  ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "un po' impreciso in alcuni termini giuridici",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "Traduzione che travisa il significato. Il testo giuridico è più preciso. ",
+        "type": "basic",
+        "labels": ["PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "leggermente impreciso",
+        "type": "basic",
+        "labels": ["LESS_ACCURATE"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "leggermente impreciso",
+        "type": "basic",
+        "labels": ["LESS_ACCURATE"]
+    },
+    {
+        "reviewer": "Jurist2",
+        "comment": "impreciso ",
+        "type": "basic",
+        "labels": ["LESS_ACCURATE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo A presenta linguaggio giuridico poco appropriato. Si segnala, inoltre, che il testo A, a differenza del testo B, omette di evidenziare il carattere non esaustivo dell’elencazione. ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Nella sua eccessiva semplificazione, il testo B tralascia riferimenti giuridici significativi (es. art. 2188, contratto collettivo nazionale di settore, Decreto del Ministro delle Infrastrutture e dei Trasporti 23 dicembre 2003) ",
+        "type": "basic",
+        "labels": ["EASIER", "JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo ha adotta un linguaggio tecnicamente e giuridicamente poco appropriato. La semplificazioni di alcuni concetti giuridici (ad esempio la traduzione della \"disponibilità\" dei mezzi in \" proprietà\") rischia di comprometterne il significato giuridico. ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Si segnala l’assenza nel testo A della frase “Indipendentemente dall'osservanza di quanto sopra riportato”, utile a contestualizzare la disposizione. ",
+        "type": "basic",
+        "labels": ["PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Si segnala la rilevante assenza rispetto al testo A del riferimento al carattere solidale dell’obbligazione. ",
+        "type": "basic",
+        "labels": ["PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo B presenta linguaggio non tecnico e  giuridicamente poco appropriato. ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo A contiene un linguaggio tecnicamente e giuridicamente meno appropriato. Si segnalano tra i due testi alcune difformità (es. \"permanenti, semipermanenti o in precario\", presente solo nel testo B). ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE", "PROBLEMATIC"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo B, sebbene più chiaro, non presenta linguaggio giuridico appropriato.",
+        "type": "basic",
+        "labels": ["EASIER", "JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo A presenta linguaggio tecnico e giuridico poco appropriato. ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    },
+    {
+        "reviewer": "Jurist1",
+        "comment": "Il testo B presenta costruzioni grammaticali non frequenti nel linguaggio giuridico (es. chi svolge…non può; chi vende…ha bisogno). ",
+        "type": "basic",
+        "labels": ["JURIDICALLY_WORSE"]
+    }
+]
