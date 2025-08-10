@@ -1,16 +1,12 @@
-# Simple Italian and AI: strenghts and weaknesses
+# Plain Italian and AI: strenghts and weaknesses
 Giuliana Fiorentino, Vittorio Ganfi, Marco Russodivito, Alessandro Cioffi and Maria Ausilia Simonelli
 
+
 ## Abstract
-The simplification of language – in particular with reference to administrative language – is a topic that has been addressed in Italian linguistics for several decades and that has achieved some important results (consolidated and shared lists of linguistic factors – morphosyntactic and lexical – that affect the simplicity and accessibility of a text; for a summary see Fiorentino/Ganfi 2024), which have allowed the definition of a readability index (Gulpease) as early as the 1980s (Lucisano/Piemontese 1988).
+The simplification of language — particularly about administrative discourse — has long been a central concern within Italian linguistics. Over the past few decades, significant progress has been made, including the development of consolidated and widely accepted lists of linguistic features — both morphosyntactic and lexical — that influence textual simplicity and accessibility (cf. Fiorentino/Ganfi 2024). These advances contributed to the early creation of a readability index, the *Gulpease index*, in the 1980s (cf. Lucisano/Piemontese 1988).
 
-The authors (a research group) are currently realizing – with the support of a large language model (LLM) – an application for the automatic simplification of administrative texts called SEMPL-IT (Fiorentino/Russodivito, in press; Ganfi/Russodivito in press). To develop this objective, ItaIst was set up, a corpus of 208 administrative texts from 8 Italian regions (Basilicata, Calabria, Campania, Latium, Lombardy, Molise, Tuscany, Veneto) and referring to 3 thematic areas: waste, health, public services. For each thematic area, 2 types of texts were considered (service charters and calls for tenders for the first thematic area; general planning acts and accreditations for the second thematic area; service charters and rationalization of public participations for the third thematic area).
+Within this framework, the authors have developed a software for the automatic simplification of administrative texts, supported by a large language model (LLM), entitled SEMPL-IT (cf. Russodivito *et al.* 2024; Fiorentino/Russodivito, 2025; Ganfi/Russodivito 2025; Fiorentino *et al.* in press, Fiorentino/Russodivito in press). As part of this project, a corpus named *ItaIst* was compiled and subjected to automatic simplification using the BASIC approach, resulting in a parallel corpus of simplified texts. This simplified corpus was then compared to the source corpus and evaluated in terms of improved readability and *Semantic similarity*, with the objective of validating the effectiveness of the simplification process. In this contribution, we introduce and validate a new methodology — the CHAIN approach — applied to a different corpus, *ItaRegol*. Although smaller in size than *ItaIst*, *ItaRegol* comprises rules and regulations, i.e., legally binding texts that create, modify, or extinguish subjective legal positions. Due to the legal nature of these texts, simplification must be carried out with caution to avoid altering their legal effects. This paper compares the two simplification approaches — BASIC and CHAIN — by evaluating the parameters adopted, assessing the quality of the simplified output, and drawing conclusions regarding the differing impact of these strategies in enhancing the readability of administrative versus regulatory texts.
 
-The corpus was then automatically simplified to create a simplified parallel corpus that was compared with the source corpus. The simplified parallel corpus was then evaluated from the point of view of increased readability and semantic similarity to the source text in order to validate the automatic simplification work.
-
-In this contribution, we intend to apply the same automatic simplification model to another corpus – called ItaRegol – of texts different from those used in the previous studies in order to compare the simplification results with those already obtained. The corpus ItaRegol is smaller in size than ItaIst and consists of rules and regulations. This corpus takes into account legally relevant acts with legal effects, which create, modify or extinguish subjective legal situations. These texts are particularly complex, for which simplification must ensure that the process of linguistic manipulation does not affect the legal effect.
-
-In sum, in this contribution we will discuss the simplification parameters used, the quality of the simplified text, and draw conclusions on the different impact of the various parameters in increasing the readability of administrative and/or regulatory text.
 
 ## Setup
 Create a virtual environment
@@ -28,6 +24,7 @@ Create a `.env` file
 ```bash
 OPENAI_API_KEY=sk-...
 ```
+
 
 ## Replication Package Content
 - `corpora`: folder that contains the `original`, `basic`, `chain`, `mini_basic` and `mini_chain` corpora in .csv format.
@@ -51,6 +48,7 @@ OPENAI_API_KEY=sk-...
 - `juridical_evaluation_results`: folder that contains the results of juridical evaluation. 
 - `juridical_evaluation_analysis.ipynb`: jupyter notebook used to explore the results of the juridical evaluation.
 - `create_juridical_evaluation_pdfs.py` and `juridical_evaluation_pdf`: script used to create human-readable `.pdf` of the juridical evaluation.
+
 
 ## Acknowledgements
 This contribution is a result of the research conducted within the framework of the PRIN 2020 (Progetti di Rilevante Interesse Nazionale) "VerbACxSS: on analytic verbs, complexity, synthetic verbs, and simplification. For accessibility" (Prot. 2020BJKB9M), funded by the Italian Ministero dell'Università e della Ricerca.
